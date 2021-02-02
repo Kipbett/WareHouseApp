@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">WareHouse</string>
+    <string name="welcome_message">Welcome To Warehouse</string>
+    <string name="warehouses">Warehouses</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="inventory">Inventoy</string>
+    <string name="add_warehouse">Add Warehouse</string>
+    <string name="move">Move Items</string>
+    <string name="setting">Settings</string>
+    <string name="share">Share</string>
+    <string name="about">About App</string>
+    <string name="warehouse_manager">Warehouse Manager</string>
+    <string name="warehouse_client">Warehouse Client</string>
+    <string name="logo">My Warehouse Application</string>
+    <string name="actions">Actions</string>
+    <string name="empty">Empty Warehouses</string>
+    <string name="occupied">Occupied Warehouses</string>
+
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="send_message">Send Message</string>
+    <string name="call">Call</string>
+    <string name="location">Location</string>
+    <string name="about_ware">About Warehouse</string>
+</resources>

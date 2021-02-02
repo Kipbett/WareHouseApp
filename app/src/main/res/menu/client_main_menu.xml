@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/find_ware_house"
+            android:title="@string/warehouses"
+            android:icon="@drawable/ic_baseline_local_convenience_store_24"/>
+
+        <item
+            android:id="@+id/add_warehouses"
+            android:title="@string/add_warehouse"
+            android:icon="@drawable/ic_baseline_playlist_add_24"/>
+
+        <item
+            android:id="@+id/inventory"
+            android:title="@string/inventory"
+            android:icon="@drawable/ic_baseline_format_list_numbered_24"/>
+
+        <item
+            android:id="@+id/move"
+            android:title="@string/move"
+            android:icon="@drawable/ic_baseline_remove_from_queue_24"/>
+
+    </group>
+
+    <item android:title="Actions">
+
+        <menu>
+
+            <item
+                android:id="@+id/settings"
+                android:title="@string/setting"
+                android:icon="@drawable/ic_baseline_settings_24"/>
+
+            <item
+                android:id="@+id/share"
+                android:title="@string/share"
+                android:icon="@drawable/ic_baseline_share_24"/>
+
+            <item
+                android:id="@+id/about"
+                android:title="@string/about"
+                android:icon="@drawable/ic_baseline_info_24"/>
+
+        </menu>
+
+    </item>
+
+</menu>

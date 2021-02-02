@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="4dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp">
+
+        <ImageView
+            android:id="@+id/warehouse_image"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@drawable/ic_baseline_house_siding_24"
+            android:padding="2dp"/>
+
+        <TextView
+            android:id="@+id/warehouse_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="WareHouse Name"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:layout_toEndOf="@id/warehouse_image"
+            android:layout_toRightOf="@id/warehouse_image"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"/>
+
+        <TextView
+            android:id="@+id/location"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="WareHouse Location"
+            android:textSize="20dp"
+            android:textStyle="italic"
+            android:layout_toEndOf="@id/warehouse_image"
+            android:layout_toRightOf="@id/warehouse_image"
+            android:layout_below="@id/warehouse_name"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"/>
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

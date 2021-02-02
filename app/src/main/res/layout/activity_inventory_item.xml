@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".InventoryItemActivity">
+
+    <ImageView
+        android:id="@+id/image_item"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="32dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/industrial"/>
+
+    <TextView
+        android:id="@+id/item_name"
+        android:text="Item Name"
+        android:textSize="32dp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image_item"
+        android:padding="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="60dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/description_container"
+        android:layout_below="@+id/item_name"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Warehouse"
+                android:id="@+id/warehouse_item"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:padding="10dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/warehouse_item"
+                android:id="@+id/warehouse_name_item"
+                android:text="Name of warehouse"
+                android:layout_marginLeft="20dp"
+                android:gravity="center"
+                android:padding="10dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Date Put"
+                android:id="@+id/date"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:padding="10dp"
+                android:layout_below="@+id/warehouse_name_item"
+                android:layout_marginTop="20dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/date"
+                android:layout_below="@+id/warehouse_name_item"
+                android:id="@+id/date_put"
+                android:text="Date"
+                android:layout_marginLeft="20dp"
+                android:gravity="center"
+                android:padding="10dp"
+                android:layout_marginTop="20dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Number of Items"
+                android:id="@+id/number_items"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:padding="10dp"
+                android:layout_below="@+id/date"
+                android:layout_marginTop="20dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/date"
+                android:layout_below="@+id/date_put"
+                android:id="@+id/number"
+                android:text="20"
+                android:layout_marginLeft="20dp"
+                android:gravity="center"
+                android:padding="10dp"
+                android:layout_marginTop="20dp"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Add Items"
+                android:id="@+id/add_btn"
+                android:layout_below="@+id/number_items"
+                android:layout_alignParentStart="true"
+                android:textColor="#ffffff"
+                android:layout_alignParentLeft="true"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Remove Item"
+                android:id="@+id/remove_btn"
+                android:layout_below="@+id/number_items"
+                android:layout_toRightOf="@+id/number_items"
+                android:layout_alignParentEnd="true"
+                android:textColor="#ffffff"
+                android:layout_alignParentRight="true"
+                android:layout_marginLeft="80dp"/>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+</RelativeLayout>

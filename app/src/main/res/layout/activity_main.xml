@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@mipmap/factory_ic"
+        android:layout_above="@+id/client_btn"
+        android:layout_marginBottom="80dp"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/logo" />
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="@string/warehouse_client"
+        android:id="@+id/client_btn"
+        android:layout_centerInParent="true"
+        android:textSize="20sp"
+        android:textColor="#ffffff"/>
+
+    <Button
+        android:id="@+id/manager_btn"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Warehouse Manager"
+        android:layout_below="@+id/client_btn"
+        android:layout_centerHorizontal="true"
+        android:textSize="20sp"
+        android:layout_marginTop="60dp"
+        android:textColor="#ffffff"/>
+
+</RelativeLayout>
