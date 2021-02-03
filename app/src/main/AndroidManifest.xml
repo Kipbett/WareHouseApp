@@ -16,7 +16,9 @@
         android:roundIcon="@mipmap/factory_ic_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.WareHouse">
-        <activity android:name=".InventoryItemActivity"></activity>
+        <activity android:name=".RemoveItemActivity"></activity>
+        <activity android:name=".AddItemActivity" />
+        <activity android:name=".InventoryItemActivity" />
         <activity android:name=".BookingActivity" />
         <activity android:name=".InventoryActivity" />
         <activity android:name=".WarehouseDetailsActivity" />
