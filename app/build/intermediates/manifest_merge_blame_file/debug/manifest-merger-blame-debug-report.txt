@@ -21,13 +21,13 @@
 16-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:10:5-81
 16-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:10:22-78
 17    <uses-permission android:name="android.permission.CALL_PHONE" />
-17-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:11:5-68
+17-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:11:5-69
 17-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:11:22-66
 18    <uses-permission android:name="android.permission.READ_SMS" />
-18-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:12:5-66
+18-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:12:5-67
 18-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:12:22-64
 19    <uses-permission android:name="android.permission.INTERNET" />
-19-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:13:5-66
+19-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:13:5-67
 19-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:13:22-64
 20
 21    <!-- Include required permissions for Google Maps API to run. -->
@@ -43,7 +43,7 @@
 26-->[com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/365742b94f95eaee536f4bc3396a1b6a/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
 27
 28    <application
-28-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:15:5-65:19
+28-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:15:5-77:19
 29        android:allowBackup="true"
 29-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:16:9-35
 30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -60,148 +60,160 @@
 36        android:testOnly="true"
 37        android:theme="@style/Theme.WareHouse" >
 37-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:21:9-47
-38        <activity
-38-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:22:9-23:75
-39            android:name="com.example.warehouse.RemoveItemActivity"
-39-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:22:19-53
-40            android:theme="@style/Theme.WareHouse.NoActionBar" />
-40-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:23:13-63
-41        <activity
-41-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:24:9-25:65
-42            android:name="com.example.warehouse.AddItemActivity"
-42-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:24:19-50
-43            android:theme="@style/Theme.WareHouse.NoActionBar" />
-43-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:25:13-63
-44        <activity
-44-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:26:9-27:65
-45            android:name="com.example.warehouse.InventoryItemActivity"
-45-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:26:19-56
-46            android:theme="@style/Theme.WareHouse.NoActionBar" />
-46-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:27:13-63
-47        <activity
-47-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:28:9-29:65
-48            android:name="com.example.warehouse.BookingActivity"
-48-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:28:19-50
-49            android:theme="@style/Theme.WareHouse.NoActionBar" />
-49-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:29:13-63
-50        <activity
-50-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:30:9-31:65
-51            android:name="com.example.warehouse.InventoryActivity"
-51-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:30:19-52
-52            android:theme="@style/Theme.WareHouse.NoActionBar" />
-52-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:31:13-63
-53        <activity
-53-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:32:9-33:65
-54            android:name="com.example.warehouse.WarehouseDetailsActivity"
-54-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:32:19-59
-55            android:theme="@style/Theme.WareHouse.NoActionBar" />
-55-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:33:13-63
-56        <activity
-56-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:34:9-35:65
-57            android:name="com.example.warehouse.AddWarehouseActivity"
-57-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:34:19-55
-58            android:theme="@style/Theme.WareHouse.NoActionBar" />
-58-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:35:13-63
-59        <!--
-60             The API key for Google Maps-based APIs is defined as a string resource.
-61             (See the file "res/values/google_maps_api.xml").
-62             Note that the API key is linked to the encryption key used to sign the APK.
-63             You need a different API key for each encryption key, including the release key that is used to
-64             sign the APK for publishing.
-65             You can define the keys for the debug and release targets in src/debug/ and src/release/.
-66        -->
-67        <meta-data
-67-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:44:9-46:55
-68            android:name="com.google.android.geo.API_KEY"
-68-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:45:13-58
-69            android:value="@string/google_maps_key" />
-69-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:46:13-52
-70
-71        <activity
-71-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:48:9-50:59
-72            android:name="com.example.warehouse.MapsActivity"
-72-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:49:13-41
-73            android:label="@string/title_activity_maps" />
-73-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:50:13-56
-74        <activity
-74-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:51:9-53:66
-75            android:name="com.example.warehouse.ManagerHomeActivity"
-75-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:52:13-48
-76            android:theme="@style/Theme.WareHouse.NoActionBar" />
-76-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:53:13-63
-77        <activity
-77-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:54:9-56:66
-78            android:name="com.example.warehouse.ClientHomeActivity"
-78-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:55:13-47
-79            android:theme="@style/Theme.WareHouse.NoActionBar" />
-79-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:56:13-63
-80        <activity android:name="com.example.warehouse.SplashActivity" >
-80-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:57:9-63:20
-80-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:57:19-49
-81            <intent-filter>
-81-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:58:13-62:29
-82                <action android:name="android.intent.action.MAIN" />
-82-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:59:17-69
-82-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:59:25-66
-83
-84                <category android:name="android.intent.category.LAUNCHER" />
-84-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:61:17-77
-84-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:61:27-74
-85            </intent-filter>
-86        </activity>
-87        <activity android:name="com.example.warehouse.MainActivity" />
-87-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:64:9-50
-87-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:64:19-47
-88        <!-- Needs to be explicitly declared on P+ -->
-89        <uses-library
-89-->[com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/365742b94f95eaee536f4bc3396a1b6a/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
-90            android:name="org.apache.http.legacy"
-90-->[com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/365742b94f95eaee536f4bc3396a1b6a/jetified-play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
-91            android:required="false" />
-91-->[com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/365742b94f95eaee536f4bc3396a1b6a/jetified-play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
-92
-93        <service
-93-->[com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/95bdbd1618eb47c5df14f7e2580308c0/jetified-firebase-database-19.2.1/AndroidManifest.xml:29:9-35:19
-94            android:name="com.google.firebase.components.ComponentDiscoveryService"
-94-->[com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/95bdbd1618eb47c5df14f7e2580308c0/jetified-firebase-database-19.2.1/AndroidManifest.xml:30:13-84
-95            android:directBootAware="true"
-95-->[com.google.firebase:firebase-common:19.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/561224d95afb1c86e82bde3d66c2b645/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
-96            android:exported="false" >
-96-->[com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/95bdbd1618eb47c5df14f7e2580308c0/jetified-firebase-database-19.2.1/AndroidManifest.xml:31:13-37
-97            <meta-data
-97-->[com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/95bdbd1618eb47c5df14f7e2580308c0/jetified-firebase-database-19.2.1/AndroidManifest.xml:32:13-34:85
-98                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
-98-->[com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/95bdbd1618eb47c5df14f7e2580308c0/jetified-firebase-database-19.2.1/AndroidManifest.xml:33:17-109
-99                android:value="com.google.firebase.components.ComponentRegistrar" />
-99-->[com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/95bdbd1618eb47c5df14f7e2580308c0/jetified-firebase-database-19.2.1/AndroidManifest.xml:34:17-82
-100        </service>
-101
-102        <activity
-102-->[com.google.android.gms:play-services-base:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/417efd618e9b6bc10a6bc5becb3cf469/jetified-play-services-base-17.3.0/AndroidManifest.xml:23:9-26:75
-103            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-103-->[com.google.android.gms:play-services-base:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/417efd618e9b6bc10a6bc5becb3cf469/jetified-play-services-base-17.3.0/AndroidManifest.xml:24:13-79
-104            android:exported="false"
-104-->[com.google.android.gms:play-services-base:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/417efd618e9b6bc10a6bc5becb3cf469/jetified-play-services-base-17.3.0/AndroidManifest.xml:25:13-37
-105            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-105-->[com.google.android.gms:play-services-base:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/417efd618e9b6bc10a6bc5becb3cf469/jetified-play-services-base-17.3.0/AndroidManifest.xml:26:13-72
+38        <activity android:name="com.example.warehouse.RegistrationActivity" />
+38-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:22:9-67
+38-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:22:19-55
+39        <activity android:name="com.example.warehouse.UserLoginActivity" />
+39-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:23:9-55
+39-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:23:19-52
+40        <activity
+40-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:24:9-26:60
+41            android:name="com.example.warehouse.ui.login.LoginActivity"
+41-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:25:13-51
+42            android:label="@string/title_activity_login" />
+42-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:26:13-57
+43        <activity
+43-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:27:9-29:66
+44            android:name="com.example.warehouse.RemoveItemActivity"
+44-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:28:13-47
+45            android:theme="@style/Theme.WareHouse.NoActionBar" />
+45-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:29:13-63
+46        <activity
+46-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:30:9-32:66
+47            android:name="com.example.warehouse.AddItemActivity"
+47-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:31:13-44
+48            android:theme="@style/Theme.WareHouse.NoActionBar" />
+48-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:32:13-63
+49        <activity
+49-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:33:9-35:66
+50            android:name="com.example.warehouse.InventoryItemActivity"
+50-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:34:13-50
+51            android:theme="@style/Theme.WareHouse.NoActionBar" />
+51-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:35:13-63
+52        <activity
+52-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:36:9-38:66
+53            android:name="com.example.warehouse.BookingActivity"
+53-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:37:13-44
+54            android:theme="@style/Theme.WareHouse.NoActionBar" />
+54-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:38:13-63
+55        <activity
+55-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:39:9-41:66
+56            android:name="com.example.warehouse.InventoryActivity"
+56-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:40:13-46
+57            android:theme="@style/Theme.WareHouse.NoActionBar" />
+57-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:41:13-63
+58        <activity
+58-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:42:9-44:66
+59            android:name="com.example.warehouse.WarehouseDetailsActivity"
+59-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:43:13-53
+60            android:theme="@style/Theme.WareHouse.NoActionBar" />
+60-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:44:13-63
+61        <activity
+61-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:45:9-47:66
+62            android:name="com.example.warehouse.AddWarehouseActivity"
+62-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:46:13-49
+63            android:theme="@style/Theme.WareHouse.NoActionBar" />
+63-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:47:13-63
+64        <!--
+65             The API key for Google Maps-based APIs is defined as a string resource.
+66             (See the file "res/values/google_maps_api.xml").
+67             Note that the API key is linked to the encryption key used to sign the APK.
+68             You need a different API key for each encryption key, including the release key that is used to
+69             sign the APK for publishing.
+70             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+71        -->
+72        <meta-data
+72-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:56:9-58:55
+73            android:name="com.google.android.geo.API_KEY"
+73-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:57:13-58
+74            android:value="@string/google_maps_key" />
+74-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:58:13-52
+75
+76        <activity
+76-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:60:9-62:59
+77            android:name="com.example.warehouse.MapsActivity"
+77-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:61:13-41
+78            android:label="@string/title_activity_maps" />
+78-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:62:13-56
+79        <activity
+79-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:63:9-65:66
+80            android:name="com.example.warehouse.ManagerHomeActivity"
+80-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:64:13-48
+81            android:theme="@style/Theme.WareHouse.NoActionBar" />
+81-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:65:13-63
+82        <activity
+82-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:66:9-68:66
+83            android:name="com.example.warehouse.ClientHomeActivity"
+83-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:67:13-47
+84            android:theme="@style/Theme.WareHouse.NoActionBar" />
+84-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:68:13-63
+85        <activity android:name="com.example.warehouse.SplashActivity" >
+85-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:69:9-75:20
+85-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:69:19-49
+86            <intent-filter>
+86-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:70:13-74:29
+87                <action android:name="android.intent.action.MAIN" />
+87-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:71:17-69
+87-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:71:25-66
+88
+89                <category android:name="android.intent.category.LAUNCHER" />
+89-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:73:17-77
+89-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:73:27-74
+90            </intent-filter>
+91        </activity>
+92        <activity android:name="com.example.warehouse.MainActivity" />
+92-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:76:9-50
+92-->/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:76:19-47
+93        <!-- Needs to be explicitly declared on P+ -->
+94        <uses-library
+94-->[com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/365742b94f95eaee536f4bc3396a1b6a/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+95            android:name="org.apache.http.legacy"
+95-->[com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/365742b94f95eaee536f4bc3396a1b6a/jetified-play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+96            android:required="false" />
+96-->[com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/365742b94f95eaee536f4bc3396a1b6a/jetified-play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+97
+98        <service
+98-->[com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/95bdbd1618eb47c5df14f7e2580308c0/jetified-firebase-database-19.2.1/AndroidManifest.xml:29:9-35:19
+99            android:name="com.google.firebase.components.ComponentDiscoveryService"
+99-->[com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/95bdbd1618eb47c5df14f7e2580308c0/jetified-firebase-database-19.2.1/AndroidManifest.xml:30:13-84
+100            android:directBootAware="true"
+100-->[com.google.firebase:firebase-common:19.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/561224d95afb1c86e82bde3d66c2b645/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+101            android:exported="false" >
+101-->[com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/95bdbd1618eb47c5df14f7e2580308c0/jetified-firebase-database-19.2.1/AndroidManifest.xml:31:13-37
+102            <meta-data
+102-->[com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/95bdbd1618eb47c5df14f7e2580308c0/jetified-firebase-database-19.2.1/AndroidManifest.xml:32:13-34:85
+103                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+103-->[com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/95bdbd1618eb47c5df14f7e2580308c0/jetified-firebase-database-19.2.1/AndroidManifest.xml:33:17-109
+104                android:value="com.google.firebase.components.ComponentRegistrar" />
+104-->[com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/95bdbd1618eb47c5df14f7e2580308c0/jetified-firebase-database-19.2.1/AndroidManifest.xml:34:17-82
+105        </service>
 106
-107        <provider
-107-->[com.google.firebase:firebase-common:19.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/561224d95afb1c86e82bde3d66c2b645/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
-108            android:name="com.google.firebase.provider.FirebaseInitProvider"
-108-->[com.google.firebase:firebase-common:19.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/561224d95afb1c86e82bde3d66c2b645/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
-109            android:authorities="com.example.warehouse.firebaseinitprovider"
-109-->[com.google.firebase:firebase-common:19.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/561224d95afb1c86e82bde3d66c2b645/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
-110            android:exported="false"
-110-->[com.google.firebase:firebase-common:19.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/561224d95afb1c86e82bde3d66c2b645/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
-111            android:initOrder="100" />
-111-->[com.google.firebase:firebase-common:19.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/561224d95afb1c86e82bde3d66c2b645/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
-112
-113        <meta-data
-113-->[com.google.android.gms:play-services-basement:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/0ce1567bd91dc44f56fb506ac5506b96/jetified-play-services-basement-17.3.0/AndroidManifest.xml:23:9-25:69
-114            android:name="com.google.android.gms.version"
-114-->[com.google.android.gms:play-services-basement:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/0ce1567bd91dc44f56fb506ac5506b96/jetified-play-services-basement-17.3.0/AndroidManifest.xml:24:13-58
-115            android:value="@integer/google_play_services_version" />
-115-->[com.google.android.gms:play-services-basement:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/0ce1567bd91dc44f56fb506ac5506b96/jetified-play-services-basement-17.3.0/AndroidManifest.xml:25:13-66
-116    </application>
+107        <activity
+107-->[com.google.android.gms:play-services-base:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/417efd618e9b6bc10a6bc5becb3cf469/jetified-play-services-base-17.3.0/AndroidManifest.xml:23:9-26:75
+108            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+108-->[com.google.android.gms:play-services-base:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/417efd618e9b6bc10a6bc5becb3cf469/jetified-play-services-base-17.3.0/AndroidManifest.xml:24:13-79
+109            android:exported="false"
+109-->[com.google.android.gms:play-services-base:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/417efd618e9b6bc10a6bc5becb3cf469/jetified-play-services-base-17.3.0/AndroidManifest.xml:25:13-37
+110            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+110-->[com.google.android.gms:play-services-base:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/417efd618e9b6bc10a6bc5becb3cf469/jetified-play-services-base-17.3.0/AndroidManifest.xml:26:13-72
+111
+112        <provider
+112-->[com.google.firebase:firebase-common:19.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/561224d95afb1c86e82bde3d66c2b645/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
+113            android:name="com.google.firebase.provider.FirebaseInitProvider"
+113-->[com.google.firebase:firebase-common:19.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/561224d95afb1c86e82bde3d66c2b645/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+114            android:authorities="com.example.warehouse.firebaseinitprovider"
+114-->[com.google.firebase:firebase-common:19.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/561224d95afb1c86e82bde3d66c2b645/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
+115            android:exported="false"
+115-->[com.google.firebase:firebase-common:19.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/561224d95afb1c86e82bde3d66c2b645/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
+116            android:initOrder="100" />
+116-->[com.google.firebase:firebase-common:19.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/561224d95afb1c86e82bde3d66c2b645/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
 117
-118</manifest>
+118        <meta-data
+118-->[com.google.android.gms:play-services-basement:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/0ce1567bd91dc44f56fb506ac5506b96/jetified-play-services-basement-17.3.0/AndroidManifest.xml:23:9-25:69
+119            android:name="com.google.android.gms.version"
+119-->[com.google.android.gms:play-services-basement:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/0ce1567bd91dc44f56fb506ac5506b96/jetified-play-services-basement-17.3.0/AndroidManifest.xml:24:13-58
+120            android:value="@integer/google_play_services_version" />
+120-->[com.google.android.gms:play-services-basement:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/0ce1567bd91dc44f56fb506ac5506b96/jetified-play-services-basement-17.3.0/AndroidManifest.xml:25:13-66
+121    </application>
+122
+123</manifest>

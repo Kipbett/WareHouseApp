@@ -7,6 +7,8 @@ com/example/warehouse/AddItemActivity.java
 com/example/warehouse/SplashActivity.java
  com.example.warehouse.SplashActivity
  com.example.warehouse.SplashActivity$1
+com/example/warehouse/RegistrationActivity.java
+ com.example.warehouse.RegistrationActivity
 com/example/warehouse/InventoryActivity.java
  com.example.warehouse.InventoryActivity
 com/example/warehouse/ListViewAdapter.java
@@ -26,10 +28,12 @@ com/example/warehouse/BookingActivity.java
  com.example.warehouse.BookingActivity
 com/example/warehouse/WareHouse.java
  com.example.warehouse.WareHouse
-com/example/warehouse/MainActivity.java
- com.example.warehouse.MainActivity
- com.example.warehouse.MainActivity$1
- com.example.warehouse.MainActivity$2
+com/example/warehouse/MapsActivity.java
+ com.example.warehouse.MapsActivity
+ com.example.warehouse.MapsActivity$1
+ com.example.warehouse.MapsActivity$2
+ com.example.warehouse.MapsActivity$3
+ com.example.warehouse.MapsActivity$AddressResultReceiver
 adapter/Constants.java
  adapter.Constants
 com/example/warehouse/ClientHomeActivity.java
@@ -39,17 +43,19 @@ com/example/warehouse/AddWarehouseActivity.java
  com.example.warehouse.AddWarehouseActivity$1
 com/example/warehouse/RemoveItemActivity.java
  com.example.warehouse.RemoveItemActivity
+com/example/warehouse/ManagerHomeActivity.java
+ com.example.warehouse.ManagerHomeActivity
 com/example/warehouse/WarehouseDetailsActivity.java
  com.example.warehouse.WarehouseDetailsActivity
  com.example.warehouse.WarehouseDetailsActivity$1
  com.example.warehouse.WarehouseDetailsActivity$2
 com/example/warehouse/ListItem.java
  com.example.warehouse.ListItem
-com/example/warehouse/ManagerHomeActivity.java
- com.example.warehouse.ManagerHomeActivity
-com/example/warehouse/MapsActivity.java
- com.example.warehouse.MapsActivity
- com.example.warehouse.MapsActivity$1
- com.example.warehouse.MapsActivity$2
- com.example.warehouse.MapsActivity$3
- com.example.warehouse.MapsActivity$AddressResultReceiver
+com/example/warehouse/MainActivity.java
+ com.example.warehouse.MainActivity
+ com.example.warehouse.MainActivity$1
+ com.example.warehouse.MainActivity$2
+com/example/warehouse/UserLoginActivity.java
+ com.example.warehouse.UserLoginActivity
+ com.example.warehouse.UserLoginActivity$1
+ com.example.warehouse.UserLoginActivity$2

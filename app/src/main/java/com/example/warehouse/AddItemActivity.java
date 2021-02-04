@@ -1,19 +1,15 @@
 package com.example.warehouse;
 
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.appcompat.widget.Toolbar;
-
 import android.os.Bundle;
 
-public class BookingActivity extends AppCompatActivity {
+import androidx.appcompat.app.AppCompatActivity;
+
+public class AddItemActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_booking);
+        setContentView(R.layout.activity_add_warehouse);
 
-        Toolbar toolbar = findViewById(R.id.tool_bar_header);
-        setSupportActionBar(toolbar);
-        getSupportActionBar().setDisplayShowTitleEnabled(false);
     }
 }

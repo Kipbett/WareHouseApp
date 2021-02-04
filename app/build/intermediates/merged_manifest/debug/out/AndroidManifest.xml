@@ -35,6 +35,11 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.WareHouse" >
+        <activity android:name="com.example.warehouse.RegistrationActivity" />
+        <activity android:name="com.example.warehouse.UserLoginActivity" />
+        <activity
+            android:name="com.example.warehouse.ui.login.LoginActivity"
+            android:label="@string/title_activity_login" />
         <activity
             android:name="com.example.warehouse.RemoveItemActivity"
             android:theme="@style/Theme.WareHouse.NoActionBar" />

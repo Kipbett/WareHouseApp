@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         button_client.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent_client = new Intent(MainActivity.this, ClientHomeActivity.class);
+                Intent intent_client = new Intent(MainActivity.this, UserLoginActivity.class);
                 startActivity(intent_client);
             }
         });
@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         button_manager.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this, ManagerHomeActivity.class);
+                Intent intent = new Intent(MainActivity.this, UserLoginActivity.class);
                 startActivity(intent);
             }
         });
