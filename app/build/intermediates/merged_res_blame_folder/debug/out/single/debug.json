@@ -1,0 +1,518 @@
+[
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_local_convenience_store_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_local_convenience_store_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_remove_from_queue_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_remove_from_queue_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_share_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_share_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/layout_warehouse_card.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/layout/warehouse_card.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_settings_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-ldpi_factory_ic_background.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-ldpi/factory_ic_background.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_factory_ic_round.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/mipmap-xxxhdpi/factory_ic_round.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_factory_ic_background.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xxxhdpi/factory_ic_background.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_playlist_add_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_playlist_add_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_house_siding_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_house_siding_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_info_24.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/layout_activity_client_home.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/layout/activity_client_home.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/menu_manager_main_menu.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/menu/manager_main_menu.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_share_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_share_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_settings_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_remove_from_queue_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_remove_from_queue_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/layout_activity_manager_home.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/layout/activity_manager_home.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/menu_client_main_menu.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/menu/client_main_menu.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-mdpi_factory_ic_background.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-mdpi/factory_ic_background.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/anim_rotate_image.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/anim/rotate_image.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_house_siding_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_house_siding_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/mipmap-hdpi_factory_ic_round.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/mipmap-hdpi/factory_ic_round.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_remove_from_queue_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_remove_from_queue_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_spin_1s_200px.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-mdpi/ic_spin_1s_200px.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_playlist_add_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_playlist_add_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_factory_ic.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/mipmap-xxxhdpi/factory_ic.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_local_convenience_store_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_local_convenience_store_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_info_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_info_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_info_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_info_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/mipmap-mdpi_factory_ic_foreground.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/mipmap-mdpi/factory_ic_foreground.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/layout_fragment_manager_home.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/layout/fragment_manager_home.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_factory_ic_foreground.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/mipmap-xxhdpi/factory_ic_foreground.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_spin_1s_200px.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_spin_1s_200px.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/layout_activity_booking.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/layout/activity_booking.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_local_convenience_store_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_local_convenience_store_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_local_convenience_store_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_local_convenience_store_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_format_list_numbered_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_format_list_numbered_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_settings_24.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_settings_24.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_format_list_numbered_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_format_list_numbered_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-v24_archive.jpg.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/drawable-v24/archive.jpg"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xhdpi_factory_ic_background.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xhdpi/factory_ic_background.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_house_siding_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_house_siding_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/mipmap-hdpi_factory_ic_foreground.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/mipmap-hdpi/factory_ic_foreground.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_remove_from_queue_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_remove_from_queue_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_playlist_add_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_playlist_add_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_format_list_numbered_24.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_format_list_numbered_24.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_settings_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_share_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_share_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_house_siding_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_house_siding_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_playlist_add_24.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_playlist_add_24.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_settings_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_settings_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_factory_ic.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/mipmap-xxhdpi/factory_ic.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_playlist_add_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_playlist_add_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/layout_activity_inventory_item.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/layout/activity_inventory_item.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_spin_1s_200px.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-hdpi/ic_spin_1s_200px.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/layout_activity_add_item.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/layout/activity_add_item.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_playlist_add_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_playlist_add_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_settings_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_local_convenience_store_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_local_convenience_store_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_factory_ic.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/mipmap-anydpi-v26/factory_ic.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xxhdpi_factory_ic_background.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xxhdpi/factory_ic_background.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_factory_ic_round.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/mipmap-xxhdpi/factory_ic_round.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_remove_from_queue_24.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_remove_from_queue_24.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/layout_nav_header.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/layout/nav_header.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/mipmap-xhdpi_factory_ic.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/mipmap-xhdpi/factory_ic.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_share_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_share_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_factory_ic_round.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/mipmap-anydpi-v26/factory_ic_round.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_spin_1s_200px.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_spin_1s_200px.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_info_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_info_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable_custom_item_layou.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/drawable/custom_item_layou.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_spin_1s_200px.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-ldpi/ic_spin_1s_200px.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-v24_ikea.jpg.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/drawable-v24/ikea.jpg"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_info_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_info_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-hdpi_factory_ic_background.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-hdpi/factory_ic_background.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_playlist_add_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_playlist_add_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/mipmap-xhdpi_factory_ic_foreground.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/mipmap-xhdpi/factory_ic_foreground.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_remove_from_queue_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_remove_from_queue_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_remove_from_queue_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_remove_from_queue_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_local_convenience_store_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_local_convenience_store_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_house_siding_24.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_house_siding_24.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_format_list_numbered_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_format_list_numbered_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/layout_activity_remove_item.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/layout/activity_remove_item.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/mipmap-xhdpi_factory_ic_round.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/mipmap-xhdpi/factory_ic_round.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/layout_activity_add_warehouse.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/layout/activity_add_warehouse.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_factory_ic_background.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-anydpi-v21/factory_ic_background.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/layout_raw_layout.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/layout/raw_layout.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_info_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_info_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_house_siding_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_house_siding_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_spin_1s_200px.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_spin_1s_200px.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_info_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_info_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/layout_activity_inventory.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/layout/activity_inventory.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/layout_activity_maps.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/layout/activity_maps.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_format_list_numbered_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_format_list_numbered_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_share_24.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_share_24.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/layout_activity_warehouse_details.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/layout/activity_warehouse_details.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/mipmap-mdpi_factory_ic_round.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/mipmap-mdpi/factory_ic_round.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_spin_1s_200px.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_spin_1s_200px.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_local_convenience_store_24.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_local_convenience_store_24.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_house_siding_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_house_siding_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-v24_industrial.jpg.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/drawable-v24/industrial.jpg"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_format_list_numbered_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_format_list_numbered_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_factory_ic_foreground.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/mipmap-xxxhdpi/factory_ic_foreground.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_share_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_share_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/mipmap-hdpi_factory_ic.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/mipmap-hdpi/factory_ic.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/mipmap-mdpi_factory_ic.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/mipmap-mdpi/factory_ic.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_format_list_numbered_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_format_list_numbered_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_share_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_share_24.png"
+    }
+]
