@@ -1,6 +1,7 @@
 package com.example.warehouse;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.widget.Toolbar;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -26,6 +27,10 @@ public class InventoryItemActivity extends AppCompatActivity {
 
         button_add = findViewById(R.id.add_btn);
         button_remove = findViewById(R.id.remove_btn);
+
+        Toolbar toolbar = findViewById(R.id.tool_bar_header);
+        setSupportActionBar(toolbar);
+        getSupportActionBar().setDisplayShowTitleEnabled(false);
 
         button_add.setOnClickListener(new View.OnClickListener() {
             @Override

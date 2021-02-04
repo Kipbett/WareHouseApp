@@ -80,7 +80,6 @@ public class AddWarehouseActivity extends AppCompatActivity {
         listViewAdapter.setOnItemClickListener(new ListViewAdapter.OnItemClickListener() {
             @Override
             public void onItemClick(int position) {
-
                 Intent intent = new Intent(AddWarehouseActivity.this, WarehouseDetailsActivity.class);
                 startActivity(intent);
             }

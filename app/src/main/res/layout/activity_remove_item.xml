@@ -6,6 +6,24 @@
     android:layout_height="match_parent"
     tools:context=".AddItemActivity">
 
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:id="@+id/tool_bar_header"
+        android:background="#fcc603"
+        android:elevation="5dp"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Inventory"
+            android:gravity="center"
+            android:textSize="30sp"
+            android:textStyle="italic"
+            android:id="@+id/toolbar_title"/>
+    </androidx.appcompat.widget.Toolbar>
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -14,7 +32,8 @@
         android:textSize="30sp"
         android:layout_marginTop="30dp"
         android:textStyle="bold"
-        android:id="@+id/header_remove"/>
+        android:id="@+id/header_remove"
+        android:layout_below="@+id/tool_bar_header"/>
 
     <TextView
         android:layout_width="match_parent"

@@ -6,13 +6,32 @@
     android:layout_height="match_parent"
     tools:context=".InventoryItemActivity">
 
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:id="@+id/tool_bar_header"
+        android:background="#fcc603"
+        android:elevation="5dp"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Item"
+            android:gravity="center"
+            android:textSize="30sp"
+            android:textStyle="italic"
+            android:id="@+id/toolbar_title"/>
+    </androidx.appcompat.widget.Toolbar>
+
     <ImageView
         android:id="@+id/image_item"
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:layout_marginTop="32dp"
         android:layout_centerHorizontal="true"
-        android:src="@drawable/industrial"/>
+        android:src="@drawable/industrial"
+        android:layout_below="@id/tool_bar_header"/>
 
     <TextView
         android:id="@+id/item_name"

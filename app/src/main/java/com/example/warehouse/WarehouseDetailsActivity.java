@@ -6,6 +6,7 @@ import androidx.core.app.ActivityCompat;
 import androidx.core.content.ContextCompat;
 
 import android.Manifest;
+import android.app.PendingIntent;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.net.Uri;
@@ -36,6 +37,7 @@ public class WarehouseDetailsActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 makeCall();
+
             }
         });
 
@@ -48,36 +50,16 @@ public class WarehouseDetailsActivity extends AppCompatActivity {
     }
 
     private void sendMessage() {
-        String num = button_call.getText().toString();
-        String message = button_message.getText().toString();
-
-        if (ContextCompat.checkSelfPermission(this, Manifest.permission.SEND_SMS) != PackageManager.PERMISSION_GRANTED){
-            if (ActivityCompat.shouldShowRequestPermissionRationale(this, Manifest.permission.SEND_SMS)){
-                
-            } else {
-                ActivityCompat.requestPermissions(this,
-                        new String[]{Manifest.permission.SEND_SMS},
-                        MY_PERMISSION_REQUEST_TO_SEND_SMS);
-            }
-        }
+        Intent intent=new Intent(getApplicationContext(),MainActivity.class);
+        PendingIntent pi= PendingIntent.getActivity(getApplicationContext(), 0, intent,0);
+        SmsManager sms=SmsManager.getDefault();
+        sms.sendTextMessage("0725585698", null, "Hello, I'd Love to enquire about your warehouse.", pi,null);
     }
 
     private void makeCall() {
-
-        String num = button_call.getText().toString();
-
-        if (num.trim().length() > 0){
-            if (ContextCompat.checkSelfPermission(WarehouseDetailsActivity.this,
-                    Manifest.permission.CALL_PHONE) != PackageManager.PERMISSION_GRANTED){
-                ActivityCompat.requestPermissions(WarehouseDetailsActivity.this,
-                        new String[]{Manifest.permission.CALL_PHONE}, REQUEST_CALL);
-            } else {
-                String dial = "tell" + num;
-                startActivity(new Intent(Intent.ACTION_CALL, Uri.parse(dial)));
-            }
-        } else {
-            Toast.makeText(this, "Enter Phone Number", Toast.LENGTH_SHORT).show();
-        }
+        Intent callIntent = new Intent(Intent.ACTION_CALL);
+        callIntent.setData(Uri.parse("tel:"+0700403306));
+        startActivity(callIntent);
     }
 
     @Override
@@ -95,9 +77,7 @@ public class WarehouseDetailsActivity extends AppCompatActivity {
 
             case MY_PERMISSION_REQUEST_TO_SEND_SMS:
                 if (grantResults.length > 0 && grantResults[0] == PackageManager.PERMISSION_GRANTED){
-                    SmsManager smsManager = SmsManager.getDefault();
-
-                    smsManager.sendTextMessage(phoneNo, null, message, null, null);
+                    sendMessage();
                     Toast.makeText(this, "SMS Sent", Toast.LENGTH_SHORT).show();
                 } else {
                     Toast.makeText(this, "SMS Failed", Toast.LENGTH_SHORT).show();
