@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".RegistrationActivity">
+    tools:context=".ui.RegistrationActivity">
 
     <TextView
         android:id="@+id/user_registration"
@@ -14,7 +14,7 @@
         android:layout_marginTop="10dp"
         android:gravity="center"
         android:text="User Registration"
-        android:textSize="30sp" />
+        android:textSize="30sp"/>
 
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/username_registration"
@@ -32,7 +32,9 @@
             android:hint="username"
             android:inputType="text"
             android:textColor="@color/material_on_primary_emphasis_medium"
-            android:textSize="20sp" />
+            android:textSize="20sp"
+            android:maxLines="1"
+            android:lines="1"/>
 
     </com.google.android.material.textfield.TextInputLayout>
 
@@ -52,7 +54,9 @@
             android:hint="Email"
             android:inputType="textEmailAddress"
             android:textColor="@color/material_on_primary_emphasis_medium"
-            android:textSize="20sp" />
+            android:textSize="20sp"
+            android:maxLines="1"
+            android:lines="1"/>
 
     </com.google.android.material.textfield.TextInputLayout>
 
@@ -72,7 +76,9 @@
             android:hint="username"
             android:inputType="phone"
             android:textColor="@color/material_on_primary_emphasis_medium"
-            android:textSize="20sp" />
+            android:textSize="20sp"
+            android:maxLines="1"
+            android:lines="1"/>
 
     </com.google.android.material.textfield.TextInputLayout>
 
@@ -93,7 +99,9 @@
             android:hint="Password"
             android:inputType="textPassword"
             android:textColor="@color/material_on_primary_emphasis_medium"
-            android:textSize="20sp" />
+            android:textSize="20sp"
+            android:maxLines="1"
+            android:lines="1"/>
 
     </com.google.android.material.textfield.TextInputLayout>
 
@@ -113,7 +121,9 @@
             android:gravity="center"
             android:hint="Confirm Passwrod"
             android:textColor="@color/material_on_primary_emphasis_high_type"
-            android:textSize="20sp" />
+            android:textSize="20sp"
+            android:maxLines="1"
+            android:lines="1"/>
 
     </com.google.android.material.textfield.TextInputLayout>
 
@@ -128,21 +138,12 @@
         android:textColor="#ffffff"
         android:textSize="20sp" />
 
-    <TextView
-        android:id="@+id/text_register"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/button_register"
-        android:layout_marginTop="10dp"
-        android:gravity="center"
-        android:text="Don't Have an Account? Register"
-        android:textSize="15dp" />
 
     <TextView
         android:id="@+id/text_login"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/text_register"
+        android:layout_below="@+id/button_register"
         android:layout_marginTop="10dp"
         android:gravity="center"
         android:text="Already Have an Account? Login"

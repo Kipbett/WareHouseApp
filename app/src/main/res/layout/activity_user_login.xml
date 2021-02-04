@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".UserLoginActivity">
+    tools:context=".ui.UserLoginActivity">
 
     <ImageView
         android:layout_width="100dp"
@@ -23,9 +23,10 @@
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Username"
+            android:hint="Email"
             android:gravity="center"
-            android:id="@+id/username"/>
+            android:id="@+id/username"
+            android:inputType="textEmailAddress"/>
     </com.google.android.material.textfield.TextInputLayout>
 
     <com.google.android.material.textfield.TextInputLayout
@@ -34,14 +35,15 @@
         android:id="@+id/password_input"
         android:layout_below="@+id/uer_layout"
         tools:ignore="UnknownId"
-        android:layout_marginTop="30dp">
+        android:layout_marginTop="30dp"
+        app:passwordToggleEnabled="true">
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Password"
             android:gravity="center"
-            android:password="true"
-            android:id="@+id/password_toggle"/>
+            android:inputType="textPassword"
+            android:id="@+id/password"/>
     </com.google.android.material.textfield.TextInputLayout>
 
     <Button

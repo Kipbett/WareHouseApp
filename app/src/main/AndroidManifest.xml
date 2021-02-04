@@ -19,31 +19,28 @@
         android:roundIcon="@mipmap/factory_ic_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.WareHouse">
-        <activity android:name=".RegistrationActivity"></activity>
-        <activity android:name=".UserLoginActivity" />
+        <activity android:name=".ui.RegistrationActivity"></activity>
+        <activity android:name=".ui.UserLoginActivity" />
         <activity
-            android:name=".ui.login.LoginActivity"
-            android:label="@string/title_activity_login" />
-        <activity
-            android:name=".RemoveItemActivity"
+            android:name=".ui.RemoveItemActivity"
             android:theme="@style/Theme.WareHouse.NoActionBar" />
         <activity
-            android:name=".AddItemActivity"
+            android:name=".ui.AddItemActivity"
             android:theme="@style/Theme.WareHouse.NoActionBar" />
         <activity
-            android:name=".InventoryItemActivity"
+            android:name=".ui.InventoryItemActivity"
             android:theme="@style/Theme.WareHouse.NoActionBar" />
         <activity
-            android:name=".BookingActivity"
+            android:name=".ui.BookingActivity"
             android:theme="@style/Theme.WareHouse.NoActionBar" />
         <activity
-            android:name=".InventoryActivity"
+            android:name=".ui.InventoryActivity"
             android:theme="@style/Theme.WareHouse.NoActionBar" />
         <activity
-            android:name=".WarehouseDetailsActivity"
+            android:name=".ui.WarehouseDetailsActivity"
             android:theme="@style/Theme.WareHouse.NoActionBar" />
         <activity
-            android:name=".AddWarehouseActivity"
+            android:name=".ui.AddWarehouseActivity"
             android:theme="@style/Theme.WareHouse.NoActionBar" />
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
@@ -58,22 +55,22 @@
             android:value="@string/google_maps_key" />
 
         <activity
-            android:name=".MapsActivity"
+            android:name=".ui.MapsActivity"
             android:label="@string/title_activity_maps" />
         <activity
-            android:name=".ManagerHomeActivity"
+            android:name=".ui.ManagerHomeActivity"
             android:theme="@style/Theme.WareHouse.NoActionBar" />
         <activity
-            android:name=".ClientHomeActivity"
+            android:name=".ui.ClientHomeActivity"
             android:theme="@style/Theme.WareHouse.NoActionBar" />
-        <activity android:name=".SplashActivity">
+        <activity android:name=".ui.SplashActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity" />
+        <activity android:name=".ui.MainActivity" />
     </application>
 
 </manifest>

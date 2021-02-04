@@ -35,31 +35,28 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.WareHouse" >
-        <activity android:name="com.example.warehouse.RegistrationActivity" />
-        <activity android:name="com.example.warehouse.UserLoginActivity" />
+        <activity android:name="com.example.warehouse.ui.RegistrationActivity" />
+        <activity android:name="com.example.warehouse.ui.UserLoginActivity" />
         <activity
-            android:name="com.example.warehouse.ui.login.LoginActivity"
-            android:label="@string/title_activity_login" />
-        <activity
-            android:name="com.example.warehouse.RemoveItemActivity"
+            android:name="com.example.warehouse.ui.RemoveItemActivity"
             android:theme="@style/Theme.WareHouse.NoActionBar" />
         <activity
-            android:name="com.example.warehouse.AddItemActivity"
+            android:name="com.example.warehouse.ui.AddItemActivity"
             android:theme="@style/Theme.WareHouse.NoActionBar" />
         <activity
-            android:name="com.example.warehouse.InventoryItemActivity"
+            android:name="com.example.warehouse.ui.InventoryItemActivity"
             android:theme="@style/Theme.WareHouse.NoActionBar" />
         <activity
-            android:name="com.example.warehouse.BookingActivity"
+            android:name="com.example.warehouse.ui.BookingActivity"
             android:theme="@style/Theme.WareHouse.NoActionBar" />
         <activity
-            android:name="com.example.warehouse.InventoryActivity"
+            android:name="com.example.warehouse.ui.InventoryActivity"
             android:theme="@style/Theme.WareHouse.NoActionBar" />
         <activity
-            android:name="com.example.warehouse.WarehouseDetailsActivity"
+            android:name="com.example.warehouse.ui.WarehouseDetailsActivity"
             android:theme="@style/Theme.WareHouse.NoActionBar" />
         <activity
-            android:name="com.example.warehouse.AddWarehouseActivity"
+            android:name="com.example.warehouse.ui.AddWarehouseActivity"
             android:theme="@style/Theme.WareHouse.NoActionBar" />
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
@@ -74,22 +71,22 @@
             android:value="@string/google_maps_key" />
 
         <activity
-            android:name="com.example.warehouse.MapsActivity"
+            android:name="com.example.warehouse.ui.MapsActivity"
             android:label="@string/title_activity_maps" />
         <activity
-            android:name="com.example.warehouse.ManagerHomeActivity"
+            android:name="com.example.warehouse.ui.ManagerHomeActivity"
             android:theme="@style/Theme.WareHouse.NoActionBar" />
         <activity
-            android:name="com.example.warehouse.ClientHomeActivity"
+            android:name="com.example.warehouse.ui.ClientHomeActivity"
             android:theme="@style/Theme.WareHouse.NoActionBar" />
-        <activity android:name="com.example.warehouse.SplashActivity" >
+        <activity android:name="com.example.warehouse.ui.SplashActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.warehouse.MainActivity" />
+        <activity android:name="com.example.warehouse.ui.MainActivity" />
         <!-- Needs to be explicitly declared on P+ -->
         <uses-library
             android:name="org.apache.http.legacy"
@@ -102,6 +99,57 @@
             <meta-data
                 android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+        </service>
+
+        <activity
+            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+            android:excludeFromRecents="true"
+            android:exported="true"
+            android:launchMode="singleTask"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="firebase.auth"
+                    android:path="/"
+                    android:scheme="genericidp" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+            android:excludeFromRecents="true"
+            android:exported="true"
+            android:launchMode="singleTask"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="firebase.auth"
+                    android:path="/"
+                    android:scheme="recaptcha" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name="com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService"
+            android:enabled="true"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.google.firebase.auth.api.gms.service.START" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
         </service>
 
         <activity
@@ -112,6 +160,7 @@
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
             android:authorities="com.example.warehouse.firebaseinitprovider"
+            android:directBootAware="true"
             android:exported="false"
             android:initOrder="100" />
 

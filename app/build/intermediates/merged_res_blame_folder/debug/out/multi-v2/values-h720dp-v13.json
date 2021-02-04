@@ -4,7 +4,7 @@
             "outputFile": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
             "map": [
                 {
-                    "source": "/home/wolf/.gradle/caches/transforms-2/files-2.1/d38bcf900577a63e0da310b3fe272179/appcompat-1.1.0/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "source": "/home/wolf/.gradle/caches/transforms-2/files-2.1/655dc37091b53a1d451eef0026f359d4/appcompat-1.1.0/res/values-h720dp-v13/values-h720dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
