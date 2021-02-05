@@ -19,7 +19,8 @@
         android:roundIcon="@mipmap/factory_ic_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.WareHouse">
-        <activity android:name=".ui.RegistrationActivity"></activity>
+        <activity android:name=".ui.AdminWarehouseActivity"></activity>
+        <activity android:name=".ui.RegistrationActivity" />
         <activity android:name=".ui.UserLoginActivity" />
         <activity
             android:name=".ui.RemoveItemActivity"

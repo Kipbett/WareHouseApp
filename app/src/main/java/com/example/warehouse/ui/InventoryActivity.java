@@ -31,27 +31,31 @@ public class InventoryActivity extends AppCompatActivity {
     };
 
     String[] names = {
-            "Warehouse Names",
-            "Warehouse Names",
-            "Warehouse Names",
-            "Warehouse Names",
-            "Warehouse Names",
-            "Warehouse Names",
-            "Warehouse Names",
-            "Warehouse Names",
-            "Warehouse Names",
+            "item 1",
+            "item 1",
+            "item 1",
+            "item 1",
+            "item 1",
+            "item 1",
+            "item 1",
+            "item 1",
+            "item 1"
     };
 
     String[] warehouses = {
-            "WarehouseDetails",
-            "WarehouseDetails",
-            "WarehouseDetails",
-            "WarehouseDetails",
-            "WarehouseDetails",
-            "WarehouseDetails",
-            "WarehouseDetails",
-            "WarehouseDetails",
-            "WarehouseDetails",
+            "Upper Hill",
+            "Langata 1",
+            "Kasarani",
+            "Kasarani",
+            "Kibra",
+            "Westlands",
+            "Bahati",
+            "Rongai",
+            "Kibra",
+    };
+
+    int[] number= {
+            23,23,45,45,43,43,45,67, 56
     };
 
     @Override
@@ -68,7 +72,7 @@ public class InventoryActivity extends AppCompatActivity {
         recyclerView.setHasFixedSize(false);
 
         LinearLayoutManager layoutManager = new LinearLayoutManager(InventoryActivity.this);
-        inventoryAdapter = new InventoryAdapter(this, images, names, warehouses);
+        inventoryAdapter = new InventoryAdapter(this, images, names, warehouses, number);
         recyclerView.setLayoutManager(layoutManager);
         recyclerView.setAdapter(inventoryAdapter);
     }

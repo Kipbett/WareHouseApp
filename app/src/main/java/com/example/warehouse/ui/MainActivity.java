@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         button_manager.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this, UserLoginActivity.class);
+                Intent intent = new Intent(MainActivity.this, ManagerHomeActivity.class);
                 startActivity(intent);
             }
         });

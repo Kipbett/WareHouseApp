@@ -22,7 +22,7 @@ public class InventoryItemActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_inventory_item);
 
-        text_name = findViewById(R.id.item_name);
+        text_name = findViewById(R.id.item_name_inventory);
         warehouse_name = findViewById(R.id.warehouse_name_item);
         date_put = findViewById(R.id.date_put);
         number_items = findViewById(R.id.number);
@@ -33,6 +33,10 @@ public class InventoryItemActivity extends AppCompatActivity {
         Toolbar toolbar = findViewById(R.id.tool_bar_header);
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayShowTitleEnabled(false);
+
+        text_name.setText(getIntent().getStringExtra("item"));
+        warehouse_name.setText(getIntent().getStringExtra("warehouse"));
+        number_items.setText(getIntent().getStringExtra("number"));
 
         button_add.setOnClickListener(new View.OnClickListener() {
             @Override

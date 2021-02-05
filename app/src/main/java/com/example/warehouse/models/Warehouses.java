@@ -2,16 +2,15 @@ package com.example.warehouse.models;
 
 public class Warehouses {
 
-    String warehouse_name, owner, lng, lat, owner_phone, owner_email;
+    String warehouse_name, owner, location, owner_phone, owner_email;
 
     public Warehouses() {
     }
 
-    public Warehouses(String warehouse_name, String owner, String lng, String lat, String owner_phone, String owner_email) {
+    public Warehouses(String warehouse_name, String owner, String location, String owner_phone, String owner_email) {
         this.warehouse_name = warehouse_name;
         this.owner = owner;
-        this.lng = lng;
-        this.lat = lat;
+        this.location = location;
         this.owner_phone = owner_phone;
         this.owner_email = owner_email;
     }
@@ -32,23 +31,15 @@ public class Warehouses {
         this.owner = owner;
     }
 
-    public String getLng() {
-        return lng;
+    public String getLocation() {
+        return location;
     }
 
-    public void setLng(String lng) {
-        this.lng = lng;
+    public void setLocation(String location) {
+        this.location = location;
     }
 
-    public String getLat() {
-        return lat;
-    }
-
-    public void setLat(String lat) {
-        this.lat = lat;
-    }
-
-    public String getOwner_phone() {
+    public String getOwner_phone(String phone) {
         return owner_phone;
     }
 

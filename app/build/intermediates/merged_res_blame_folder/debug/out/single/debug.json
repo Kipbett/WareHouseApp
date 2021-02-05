@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_local_convenience_store_24.png.flat",
-        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_local_convenience_store_24.png"
-    },
-    {
         "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_remove_from_queue_24.png.flat",
         "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_remove_from_queue_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_local_convenience_store_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_local_convenience_store_24.png"
     },
     {
         "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_share_24.png.flat",
@@ -56,12 +56,12 @@
         "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_share_24.png"
     },
     {
-        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_settings_24.png.flat",
-        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_settings_24.png"
-    },
-    {
         "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_remove_from_queue_24.png.flat",
         "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_remove_from_queue_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_settings_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_settings_24.png"
     },
     {
         "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/layout_activity_manager_home.xml.flat",
@@ -378,6 +378,10 @@
     {
         "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_format_list_numbered_24.png.flat",
         "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_format_list_numbered_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/layout_activity_admin_warehouse.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/layout/activity_admin_warehouse.xml"
     },
     {
         "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/layout_activity_remove_item.xml.flat",

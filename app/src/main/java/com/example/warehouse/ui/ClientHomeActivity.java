@@ -59,6 +59,10 @@ public class ClientHomeActivity extends AppCompatActivity implements NavigationV
             "WarehouseDetails",
     };
 
+    int[] spaces = {
+            23,23,45,45,43,43,45,67, 56
+    };
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -87,7 +91,7 @@ public class ClientHomeActivity extends AppCompatActivity implements NavigationV
         recyclerView.setHasFixedSize(false);
 
         LinearLayoutManager layoutManager = new LinearLayoutManager(ClientHomeActivity.this);
-        inventoryAdapter = new InventoryAdapter(this, images, names, warehouses);
+        inventoryAdapter = new InventoryAdapter(this, images, names, warehouses, spaces);
         recyclerView.setLayoutManager(layoutManager);
         recyclerView.setAdapter(inventoryAdapter);
 

@@ -19,13 +19,15 @@ public class InventoryAdapter extends RecyclerView.Adapter<InventoryAdapter.Inve
     private int[] images;
     private String[] names;
     private String[] warehouses;
+    int[] number;
     Context context;
 
-    public InventoryAdapter(Context context, int[] images, String[] names, String[] warehouses) {
+    public InventoryAdapter(Context context, int[] images, String[] names, String[] warehouses, int[] number) {
         this.images = images;
         this.names = names;
         this.warehouses = warehouses;
         this.context = context;
+        this.number = number;
     }
 
     @NonNull
@@ -48,6 +50,9 @@ public class InventoryAdapter extends RecyclerView.Adapter<InventoryAdapter.Inve
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(context, InventoryItemActivity.class);
+                intent.putExtra("item", names);
+                intent.putExtra("number", number);
+                intent.putExtra("warehouse", warehouses);
                 context.startActivity(intent);
             }
         });

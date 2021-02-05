@@ -7,6 +7,7 @@ import androidx.appcompat.widget.Toolbar;
 import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.MenuItem;
 
@@ -34,11 +35,8 @@ public class ManagerHomeActivity extends AppCompatActivity implements Navigation
         toggle.syncState();
 
         if (savedInstanceState == null){
-            getSupportFragmentManager()
-                    .beginTransaction()
-                    .replace(R.id.fragment_container_manager, new ManagerHome())
-                    .commit();
-            navigationView.setCheckedItem(R.id.show_ware_house_manager);
+            Intent intent = new Intent(ManagerHomeActivity.this, AdminWarehouseActivity.class);
+            startActivity(intent);
         }
     }
 
@@ -47,10 +45,8 @@ public class ManagerHomeActivity extends AppCompatActivity implements Navigation
 
         switch (item.getItemId()){
             case R.id.show_ware_house_manager:
-                getSupportFragmentManager()
-                        .beginTransaction()
-                        .replace(R.id.fragment_container_manager, new ManagerHome())
-                        .commit();
+                Intent intent = new Intent(ManagerHomeActivity.this, AdminWarehouseActivity.class);
+                startActivity(intent);
                 break;
         }
 

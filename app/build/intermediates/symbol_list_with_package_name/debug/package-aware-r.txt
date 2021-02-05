@@ -1536,6 +1536,7 @@ id actions
 id activity_chooser_view_content
 id add
 id add_btn
+id add_ware
 id add_warehouses
 id adjust_height
 id adjust_width
@@ -1554,6 +1555,7 @@ id button_login
 id button_register
 id buttons
 id call
+id cancel
 id cancel_action
 id cancel_button
 id center
@@ -1643,7 +1645,7 @@ id inventory
 id invisible
 id italic
 id item
-id item_name
+id item_name_inventory
 id item_remove
 id item_touch_helper_previous_elevation
 id labeled
@@ -1842,12 +1844,22 @@ id username_registration
 id view_offset_helper
 id visible
 id ware_details
+id ware_location
+id ware_name
+id ware_owner
+id ware_owner_email
+id ware_owner_number
 id warehouse
 id warehouse_details
 id warehouse_image
 id warehouse_item
+id warehouse_location
 id warehouse_name
+id warehouse_name_admin
 id warehouse_name_item
+id warehouse_owner
+id warehouse_owner_email
+id warehouse_owner_number
 id welcome
 id wide
 id withText
@@ -1916,6 +1928,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_add_item
 layout activity_add_warehouse
+layout activity_admin_warehouse
 layout activity_booking
 layout activity_client_home
 layout activity_inventory

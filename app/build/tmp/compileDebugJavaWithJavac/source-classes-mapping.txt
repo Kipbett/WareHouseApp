@@ -11,6 +11,10 @@ com/example/warehouse/ui/UserLoginActivity.java
  com.example.warehouse.ui.UserLoginActivity$1
  com.example.warehouse.ui.UserLoginActivity$1$1
  com.example.warehouse.ui.UserLoginActivity$2
+com/example/warehouse/ui/AdminWarehouseActivity.java
+ com.example.warehouse.ui.AdminWarehouseActivity
+ com.example.warehouse.ui.AdminWarehouseActivity$1
+ com.example.warehouse.ui.AdminWarehouseActivity$2
 com/example/warehouse/ui/MapsActivity.java
  com.example.warehouse.ui.MapsActivity
  com.example.warehouse.ui.MapsActivity$1
@@ -19,14 +23,14 @@ com/example/warehouse/ui/MapsActivity.java
  com.example.warehouse.ui.MapsActivity$AddressResultReceiver
 com/example/warehouse/BuildConfig.java
  com.example.warehouse.BuildConfig
-com/example/warehouse/ui/InventoryActivity.java
- com.example.warehouse.ui.InventoryActivity
+com/example/warehouse/ui/RegistrationActivity.java
+ com.example.warehouse.ui.RegistrationActivity
+ com.example.warehouse.ui.RegistrationActivity$1
+ com.example.warehouse.ui.RegistrationActivity$2
 com/example/warehouse/ui/ManagerHome.java
  com.example.warehouse.ui.ManagerHome
-com/example/warehouse/ui/InventoryItemActivity.java
- com.example.warehouse.ui.InventoryItemActivity
- com.example.warehouse.ui.InventoryItemActivity$1
- com.example.warehouse.ui.InventoryItemActivity$2
+com/example/warehouse/ui/AddItemActivity.java
+ com.example.warehouse.ui.AddItemActivity
 com/example/warehouse/ui/RemoveItemActivity.java
  com.example.warehouse.ui.RemoveItemActivity
 adapter/Constants.java
@@ -42,25 +46,25 @@ com/example/warehouse/ui/SplashActivity.java
 com/example/warehouse/ui/AddWarehouseActivity.java
  com.example.warehouse.ui.AddWarehouseActivity
  com.example.warehouse.ui.AddWarehouseActivity$1
-com/example/warehouse/ui/ClientHomeActivity.java
- com.example.warehouse.ui.ClientHomeActivity
+com/example/warehouse/models/RegUser.java
+ com.example.warehouse.models.RegUser
 com/example/warehouse/ui/WarehouseDetailsActivity.java
  com.example.warehouse.ui.WarehouseDetailsActivity
  com.example.warehouse.ui.WarehouseDetailsActivity$1
  com.example.warehouse.ui.WarehouseDetailsActivity$2
 com/example/warehouse/models/Warehouses.java
  com.example.warehouse.models.Warehouses
+com/example/warehouse/ui/BookingActivity.java
+ com.example.warehouse.ui.BookingActivity
+com/example/warehouse/ui/ClientHomeActivity.java
+ com.example.warehouse.ui.ClientHomeActivity
+com/example/warehouse/ui/InventoryActivity.java
+ com.example.warehouse.ui.InventoryActivity
 com/example/warehouse/adapter/InventoryAdapter.java
  com.example.warehouse.adapter.InventoryAdapter
  com.example.warehouse.adapter.InventoryAdapter$1
  com.example.warehouse.adapter.InventoryAdapter$InventoryAdapterHolder
-com/example/warehouse/ui/AddItemActivity.java
- com.example.warehouse.ui.AddItemActivity
-com/example/warehouse/ui/RegistrationActivity.java
- com.example.warehouse.ui.RegistrationActivity
- com.example.warehouse.ui.RegistrationActivity$1
- com.example.warehouse.ui.RegistrationActivity$2
-com/example/warehouse/ui/BookingActivity.java
- com.example.warehouse.ui.BookingActivity
-com/example/warehouse/models/RegUser.java
- com.example.warehouse.models.RegUser
+com/example/warehouse/ui/InventoryItemActivity.java
+ com.example.warehouse.ui.InventoryItemActivity
+ com.example.warehouse.ui.InventoryItemActivity$1
+ com.example.warehouse.ui.InventoryItemActivity$2

@@ -42,6 +42,8 @@ public class RegistrationActivity extends AppCompatActivity {
 
         btn_register = findViewById(R.id.button_register);
 
+        //String userId = reference.push().getKey();
+
         login.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -69,7 +71,7 @@ public class RegistrationActivity extends AppCompatActivity {
 
                 if (u_password.equals(u_confirm_password)){
                     reference = firebaseDatabase.getReference().child("user");
-                    reference.setValue(regUser);
+                    reference.child(u_phone).setValue(regUser);
                 } else {
                     Toast.makeText(RegistrationActivity.this, "Passwords do not match!!!", Toast.LENGTH_SHORT).show();
                 }
