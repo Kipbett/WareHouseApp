@@ -40,6 +40,13 @@ public class UserLoginActivity extends AppCompatActivity {
 
         firebaseAuth = FirebaseAuth.getInstance();
 
+        if (firebaseAuth.getCurrentUser() != null){
+            Toast.makeText(UserLoginActivity.this, "User already logged In", Toast.LENGTH_SHORT).show();
+            finish();
+            Intent intent = new Intent(UserLoginActivity.this, ClientHomeActivity.class);
+            startActivity(intent);
+        }
+
         btn_login.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -50,12 +57,6 @@ public class UserLoginActivity extends AppCompatActivity {
                 if(TextUtils.isEmpty(email) || TextUtils.isEmpty(password)){
                     Toast.makeText(UserLoginActivity.this, "Empty Fields", Toast.LENGTH_SHORT).show();
                 } else {
-                    if (firebaseAuth.getCurrentUser() != null){
-                        Toast.makeText(UserLoginActivity.this, "User already logged In", Toast.LENGTH_SHORT).show();
-                        finish();
-                        Intent intent = new Intent(UserLoginActivity.this, ClientHomeActivity.class);
-                        startActivity(intent);
-                    } else {
                         firebaseAuth.signInWithEmailAndPassword(email, password)
                                 .addOnCompleteListener(new OnCompleteListener<AuthResult>() {
                                     @Override
@@ -72,7 +73,6 @@ public class UserLoginActivity extends AppCompatActivity {
                                 });
                     }
                 }
-            }
         });
 
         text_reg.setOnClickListener(new View.OnClickListener() {

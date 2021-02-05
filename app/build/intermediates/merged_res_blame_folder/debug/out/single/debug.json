@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_remove_from_queue_24.png.flat",
-        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_remove_from_queue_24.png"
-    },
-    {
         "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_local_convenience_store_24.png.flat",
         "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_local_convenience_store_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_remove_from_queue_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_remove_from_queue_24.png"
     },
     {
         "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_share_24.png.flat",
@@ -56,12 +56,12 @@
         "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_share_24.png"
     },
     {
-        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_remove_from_queue_24.png.flat",
-        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_remove_from_queue_24.png"
-    },
-    {
         "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_settings_24.png.flat",
         "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_remove_from_queue_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_remove_from_queue_24.png"
     },
     {
         "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/layout_activity_manager_home.xml.flat",
@@ -88,12 +88,20 @@
         "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_house_siding_24.png"
     },
     {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_remove_from_queue_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_remove_from_queue_24.png"
+    },
+    {
         "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/mipmap-hdpi_factory_ic_round.png.flat",
         "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/mipmap-hdpi/factory_ic_round.png"
     },
     {
-        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_remove_from_queue_24.png.flat",
-        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_remove_from_queue_24.png"
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_login_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_login_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_login_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_login_24.png"
     },
     {
         "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_spin_1s_200px.png.flat",
@@ -210,6 +218,10 @@
     {
         "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_house_siding_24.png.flat",
         "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_house_siding_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_login_24.xml.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_login_24.xml"
     },
     {
         "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_playlist_add_24.xml.flat",
@@ -380,6 +392,10 @@
         "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_format_list_numbered_24.png"
     },
     {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_login_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_login_24.png"
+    },
+    {
         "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/layout_activity_admin_warehouse.xml.flat",
         "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/layout/activity_admin_warehouse.xml"
     },
@@ -390,6 +406,10 @@
     {
         "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/mipmap-xhdpi_factory_ic_round.png.flat",
         "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/mipmap-xhdpi/factory_ic_round.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_login_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_login_24.png"
     },
     {
         "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/layout_activity_add_warehouse.xml.flat",
@@ -410,6 +430,10 @@
     {
         "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_info_24.png.flat",
         "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_info_24.png"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_login_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_login_24.png"
     },
     {
         "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_house_siding_24.png.flat",
@@ -470,6 +494,10 @@
     {
         "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
         "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_login_24.png.flat",
+        "source": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_login_24.png"
     },
     {
         "merged": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_house_siding_24.png.flat",

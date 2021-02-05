@@ -34,27 +34,27 @@ public class AddWarehouseActivity extends AppCompatActivity {
         };
 
         String[] names = {
-                "Warehouse Names",
-                "Warehouse Names",
-                "Warehouse Names",
-                "Warehouse Names",
-                "Warehouse Names",
-                "Warehouse Names",
-                "Warehouse Names",
-                "Warehouse Names",
-                "Warehouse Names",
+                "Warehouse One",
+                "Warehouse Two",
+                "Warehouse Three",
+                "Warehouse Four",
+                "Warehouse Five",
+                "Warehouse Six",
+                "Warehouse Seven",
+                "Warehouse Eight",
+                "Warehouse Nine",
         };
 
         String[] details = {
-                "WarehouseDetails",
-                "WarehouseDetails",
-                "WarehouseDetails",
-                "WarehouseDetails",
-                "WarehouseDetails",
-                "WarehouseDetails",
-                "WarehouseDetails",
-                "WarehouseDetails",
-                "WarehouseDetails",
+                "Warehouse Loation 1",
+                "Warehouse Loation 2",
+                "Warehouse Loation 3",
+                "Warehouse Loation 4",
+                "Warehouse Loation 5",
+                "Warehouse Loation 6",
+                "Warehouse Loation 7",
+                "Warehouse Loation 8",
+                "Warehouse Loation 9",
         };
 
         /*List<ListItem> listItems = new ArrayList<>();

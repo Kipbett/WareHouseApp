@@ -48,6 +48,11 @@ public class ManagerHomeActivity extends AppCompatActivity implements Navigation
                 Intent intent = new Intent(ManagerHomeActivity.this, AdminWarehouseActivity.class);
                 startActivity(intent);
                 break;
+
+            case R.id.logout_admin:
+                Intent intent_logout = new Intent(ManagerHomeActivity.this, UserLoginActivity.class);
+                startActivity(intent_logout);
+
         }
 
         drawerLayout.closeDrawer(GravityCompat.START);

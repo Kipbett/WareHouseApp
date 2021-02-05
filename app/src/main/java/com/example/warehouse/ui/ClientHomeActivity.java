@@ -12,10 +12,12 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.MenuItem;
+import android.widget.Toast;
 
 import com.example.warehouse.adapter.InventoryAdapter;
 import com.example.warehouse.R;
 import com.google.android.material.navigation.NavigationView;
+import com.google.firebase.auth.FirebaseAuth;
 
 public class ClientHomeActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 
@@ -116,6 +118,13 @@ public class ClientHomeActivity extends AppCompatActivity implements NavigationV
                 Intent intent_inventory = new Intent(ClientHomeActivity.this, InventoryActivity.class);
                 startActivity(intent_inventory);
                 break;
+
+            case R.id.logout:
+                FirebaseAuth.getInstance().signOut();
+                Toast.makeText(this, "Logout SuccessFull", Toast.LENGTH_SHORT).show();
+                Intent intent_sign = new Intent(ClientHomeActivity.this, UserLoginActivity.class);
+                startActivity(intent_sign);
+
         }
 
         drawerLayout.closeDrawer(GravityCompat.START);
