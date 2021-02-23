@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.ManagerHomeActivity"
+    tools:context=".ui.admin.ManagerHomeActivity"
     android:id="@+id/drawer_layout_manager"
     tools:openDrawer="start">
 

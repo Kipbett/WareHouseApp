@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.AddItemActivity">
+    tools:context=".ui.client.AddItemActivity">
 
     <androidx.appcompat.widget.Toolbar
         android:layout_width="match_parent"
@@ -27,7 +27,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Add Item for"
+        android:text="@string/remove_item"
         android:gravity="center"
         android:textSize="30sp"
         android:layout_marginTop="30dp"
@@ -38,7 +38,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Add Item for"
+        android:text="Removed Item"
         android:gravity="center"
         android:textSize="20sp"
         android:layout_marginTop="30dp"
@@ -57,8 +57,10 @@
         <com.google.android.material.textfield.TextInputEditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="number of items to"
-            android:gravity="center"/>
+            android:hint="number of items"
+            android:gravity="center"
+            android:maxLines="1"
+            android:inputType="number"/>
     </com.google.android.material.textfield.TextInputLayout>
 
     <Button

@@ -1,4 +1,4 @@
-#Fri Feb 05 10:55:53 EAT 2021
+#Mon Feb 15 20:34:04 EAT 2021
 base.0=/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

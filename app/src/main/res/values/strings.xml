@@ -16,6 +16,7 @@
     <string name="actions">Actions</string>
     <string name="empty">Empty Warehouses</string>
     <string name="occupied">Occupied Warehouses</string>
+    <string name="items">Items</string>
 
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -35,4 +36,7 @@
     <string name="invalid_username">Not a valid username</string>
     <string name="invalid_password">Password must be >5 characters</string>
     <string name="login_failed">"Login failed"</string>
+    <string name="add_item">Add Item</string>
+    <string name="report">Reports</string>
+    <string name="remove_item">Remove Item For</string>
 </resources>

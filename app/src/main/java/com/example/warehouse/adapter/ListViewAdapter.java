@@ -13,7 +13,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.warehouse.R;
-import com.example.warehouse.ui.WarehouseDetailsActivity;
+import com.example.warehouse.ui.client.WarehouseDetailsActivity;
 
 public class ListViewAdapter extends RecyclerView.Adapter<ListViewAdapter.ListViewHolder>{
 

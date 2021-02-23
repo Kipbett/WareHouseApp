@@ -12,7 +12,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.warehouse.R;
-import com.example.warehouse.ui.InventoryItemActivity;
+import com.example.warehouse.ui.client.InventoryItemActivity;
 
 public class InventoryAdapter extends RecyclerView.Adapter<InventoryAdapter.InventoryAdapterHolder> {
 

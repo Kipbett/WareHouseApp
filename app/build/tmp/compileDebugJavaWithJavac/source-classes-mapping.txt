@@ -60,6 +60,7 @@ com/example/warehouse/adapter/InventoryAdapter.java
  com.example.warehouse.adapter.InventoryAdapter$InventoryAdapterHolder
 com/example/warehouse/ui/AddItemActivity.java
  com.example.warehouse.ui.AddItemActivity
+ com.example.warehouse.ui.AddItemActivity$1
 com/example/warehouse/ui/RegistrationActivity.java
  com.example.warehouse.ui.RegistrationActivity
  com.example.warehouse.ui.RegistrationActivity$1

@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.AddItemActivity">
+    tools:context=".ui.client.AddItemActivity">
 
     <androidx.appcompat.widget.Toolbar
         android:layout_width="match_parent"
@@ -54,14 +54,18 @@
         android:layout_marginTop="30dp"
         android:id="@+id/text_input">
 
-        <com.google.android.material.textfield.TextInputEditText
+        <EditText
+            android:id="@+id/number_add"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="number of items add"
-            android:gravity="center"/>
+            android:hint="Enter Number of Items"
+            android:gravity="center"
+            android:inputType="number"/>
+
     </com.google.android.material.textfield.TextInputLayout>
 
     <Button
+        android:id="@+id/add_btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Add Item"

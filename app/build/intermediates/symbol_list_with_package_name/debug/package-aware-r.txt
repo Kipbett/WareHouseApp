@@ -1537,6 +1537,7 @@ id actions
 id activity_chooser_view_content
 id add
 id add_btn
+id add_item
 id add_ware
 id add_warehouses
 id adjust_height
@@ -1649,6 +1650,7 @@ id item
 id item_name_inventory
 id item_remove
 id item_touch_helper_previous_elevation
+id items
 id labeled
 id largeLabel
 id left
@@ -1659,6 +1661,7 @@ id listMode
 id list_item
 id location
 id logout
+id logout_admin
 id manager_btn
 id map
 id masked
@@ -1705,6 +1708,7 @@ id notification_background
 id notification_main_column
 id notification_main_column_container
 id number
+id number_add
 id number_items
 id off
 id on
@@ -1737,6 +1741,7 @@ id reg_phone
 id reg_username
 id register_text
 id remove_btn
+id report
 id right
 id right_icon
 id right_side
@@ -2023,6 +2028,7 @@ layout text_view_with_theme_line_height
 layout text_view_without_line_height
 layout warehouse_card
 menu client_main_menu
+menu inventory_menu
 menu manager_main_menu
 mipmap factory_ic
 mipmap factory_ic_foreground
@@ -2062,6 +2068,7 @@ string about_ware
 string action_sign_in
 string action_sign_in_short
 string actions
+string add_item
 string add_warehouse
 string app_name
 string appbar_scrolling_view_behavior
@@ -2108,6 +2115,7 @@ string icon_content_description
 string invalid_password
 string invalid_username
 string inventory
+string items
 string location
 string login
 string login_failed
@@ -2159,6 +2167,7 @@ string project_id
 string prompt_email
 string prompt_password
 string register
+string report
 string search_menu_title
 string send_message
 string setting

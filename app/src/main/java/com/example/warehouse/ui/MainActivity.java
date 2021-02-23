@@ -8,6 +8,7 @@ import android.view.View;
 import android.widget.Button;
 
 import com.example.warehouse.R;
+import com.example.warehouse.ui.admin.ManagerHomeActivity;
 
 public class MainActivity extends AppCompatActivity {
 
