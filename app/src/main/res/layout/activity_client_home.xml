@@ -27,6 +27,7 @@
             android:layout_height="match_parent"
             android:visibility="gone"
             android:id="@+id/fragmenr_container"/>
+            
         <androidx.recyclerview.widget.RecyclerView
             android:layout_width="match_parent"
             android:layout_height="match_parent"

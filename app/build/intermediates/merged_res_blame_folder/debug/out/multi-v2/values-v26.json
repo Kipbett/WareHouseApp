@@ -4,7 +4,7 @@
             "outputFile": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
             "map": [
                 {
-                    "source": "/home/wolf/.gradle/caches/transforms-2/files-2.1/655dc37091b53a1d451eef0026f359d4/appcompat-1.1.0/res/values-v26/values-v26.xml",
+                    "source": "/home/wolf/.gradle/caches/transforms-2/files-2.1/830e6c678393d35e5da62f071866c0fc/appcompat-1.1.0/res/values-v26/values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",

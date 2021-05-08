@@ -323,7 +323,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="file:$USER_HOME$/Android/Sdk/icons/material/materialicons/login/baseline_login_24.xml" />
+                                      <entry key="url" value="file:$USER_HOME$/Android/Sdk/icons/material/materialicons/star_border/baseline_star_border_24.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -334,7 +334,7 @@
                         <option name="values">
                           <map>
                             <entry key="color" value="dc9024" />
-                            <entry key="outputName" value="ic_baseline_login_24" />
+                            <entry key="outputName" value="ic_baseline_star_border_24" />
                             <entry key="sourceFile" value="$USER_HOME$/Downloads/Spin-1s-200px.svg" />
                           </map>
                         </option>

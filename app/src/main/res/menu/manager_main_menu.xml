@@ -30,6 +30,11 @@
             android:title="@string/occupied"
             android:icon="@drawable/ic_baseline_house_siding_24"/>
 
+        <item
+            android:id="@+id/orders"
+            android:title="@string/orders_menu"
+            android:icon="@drawable/ic_baseline_star_border_24"/>
+
     </group>
 
     <item android:title="@string/actions">

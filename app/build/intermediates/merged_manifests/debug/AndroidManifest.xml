@@ -17,8 +17,7 @@
     <uses-permission android:name="android.permission.CALL_PHONE" />
     <uses-permission android:name="android.permission.READ_SMS" />
     <uses-permission android:name="android.permission.INTERNET" />
-
-    <!-- Include required permissions for Google Maps API to run. -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <uses-feature
@@ -35,29 +34,33 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.WareHouse" >
-        <activity android:name="com.example.warehouse.ui.AdminWarehouseActivity" />
-        <activity android:name="com.example.warehouse.ui.RegistrationActivity" />
+        <activity
+            android:name="com.example.warehouse.ui.admin.OrdersActivity"
+            android:theme="@style/Theme.WareHouse.NoActionBar" />
+        <activity android:name="com.example.warehouse.ui.admin.UpdateWarehouseActivity" />
+        <activity android:name="com.example.warehouse.ui.admin.AdminWarehouseActivity" />
+        <activity android:name="com.example.warehouse.ui.client.RegistrationActivity" />
         <activity android:name="com.example.warehouse.ui.UserLoginActivity" />
         <activity
-            android:name="com.example.warehouse.ui.RemoveItemActivity"
+            android:name="com.example.warehouse.ui.client.RemoveItemActivity"
             android:theme="@style/Theme.WareHouse.NoActionBar" />
         <activity
-            android:name="com.example.warehouse.ui.AddItemActivity"
+            android:name="com.example.warehouse.ui.client.AddItemActivity"
             android:theme="@style/Theme.WareHouse.NoActionBar" />
         <activity
-            android:name="com.example.warehouse.ui.InventoryItemActivity"
+            android:name="com.example.warehouse.ui.client.InventoryItemActivity"
             android:theme="@style/Theme.WareHouse.NoActionBar" />
         <activity
             android:name="com.example.warehouse.ui.BookingActivity"
             android:theme="@style/Theme.WareHouse.NoActionBar" />
         <activity
-            android:name="com.example.warehouse.ui.InventoryActivity"
+            android:name="com.example.warehouse.ui.client.InventoryActivity"
             android:theme="@style/Theme.WareHouse.NoActionBar" />
         <activity
-            android:name="com.example.warehouse.ui.WarehouseDetailsActivity"
+            android:name="com.example.warehouse.ui.client.WarehouseDetailsActivity"
             android:theme="@style/Theme.WareHouse.NoActionBar" />
         <activity
-            android:name="com.example.warehouse.ui.AddWarehouseActivity"
+            android:name="com.example.warehouse.ui.admin.AddWarehouseActivity"
             android:theme="@style/Theme.WareHouse.NoActionBar" />
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
@@ -75,10 +78,10 @@
             android:name="com.example.warehouse.ui.MapsActivity"
             android:label="@string/title_activity_maps" />
         <activity
-            android:name="com.example.warehouse.ui.ManagerHomeActivity"
+            android:name="com.example.warehouse.ui.admin.ManagerHomeActivity"
             android:theme="@style/Theme.WareHouse.NoActionBar" />
         <activity
-            android:name="com.example.warehouse.ui.ClientHomeActivity"
+            android:name="com.example.warehouse.ui.client.ClientHomeActivity"
             android:theme="@style/Theme.WareHouse.NoActionBar" />
         <activity android:name="com.example.warehouse.ui.SplashActivity" >
             <intent-filter>

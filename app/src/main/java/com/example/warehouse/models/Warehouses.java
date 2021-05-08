@@ -3,16 +3,19 @@ package com.example.warehouse.models;
 public class Warehouses {
 
     String warehouse_name, owner, location, owner_phone, owner_email;
+    Double latitude, longitude;
 
     public Warehouses() {
     }
 
-    public Warehouses(String warehouse_name, String owner, String location, String owner_phone, String owner_email) {
+    public Warehouses(String warehouse_name, String owner, String location, String owner_phone, String owner_email, Double latitude, Double longitude) {
         this.warehouse_name = warehouse_name;
         this.owner = owner;
         this.location = location;
         this.owner_phone = owner_phone;
         this.owner_email = owner_email;
+        this.latitude = latitude;
+        this.longitude = longitude;
     }
 
     public String getWarehouse_name() {
@@ -53,5 +56,21 @@ public class Warehouses {
 
     public void setOwner_email(String owner_email) {
         this.owner_email = owner_email;
+    }
+
+    public Double getLatitude() {
+        return latitude;
+    }
+
+    public void setLatitude(Double latitude) {
+        this.latitude = latitude;
+    }
+
+    public Double getLongitude() {
+        return longitude;
+    }
+
+    public void setLongitude(Double longitude) {
+        this.longitude = longitude;
     }
 }

@@ -6,11 +6,30 @@
     android:layout_height="match_parent"
     tools:context=".ui.admin.AdminWarehouseActivity">
 
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:id="@+id/tool_bar_header"
+        android:background="#fcc603"
+        android:elevation="5dp"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Update Warehouse"
+            android:gravity="center"
+            android:textSize="30sp"
+            android:textStyle="italic"
+            android:id="@+id/toolbar_title"/>
+    </androidx.appcompat.widget.Toolbar>
+
     <com.google.android.material.textfield.TextInputLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/warehouse_name_admin"
-        android:layout_marginTop="100dp">
+        android:layout_marginTop="100dp"
+        android:layout_below="@+id/tool_bar_header">
 
         <EditText
             android:layout_width="match_parent"
@@ -73,28 +92,11 @@
             android:textSize="15sp"/>
     </com.google.android.material.textfield.TextInputLayout>
 
-    <com.google.android.material.textfield.TextInputLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/warehouse_location"
-        android:layout_below="@+id/warehouse_owner_email"
-        android:layout_marginTop="20dp">
-
-        <EditText
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:inputType="text"
-            android:id="@+id/ware_location"
-            android:hint="Warehouse Location"
-            android:gravity="center"
-            android:textSize="15sp"/>
-    </com.google.android.material.textfield.TextInputLayout>
-
     <Button
         android:id="@+id/add_ware"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/warehouse_location"
+        android:layout_below="@+id/warehouse_owner_email"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="30dp"
         android:text="add warehouse"

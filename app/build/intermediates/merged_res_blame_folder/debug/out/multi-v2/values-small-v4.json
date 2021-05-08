@@ -4,7 +4,7 @@
             "outputFile": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-small-v4/values-small-v4.xml",
             "map": [
                 {
-                    "source": "/home/wolf/.gradle/caches/transforms-2/files-2.1/c81d39a79fa402136a8544175df432ff/material-1.1.0/res/values-small-v4/values-small-v4.xml",
+                    "source": "/home/wolf/.gradle/caches/transforms-2/files-2.1/c7288d93503d383f04a5134b022cf105/material-1.1.0/res/values-small-v4/values-small-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

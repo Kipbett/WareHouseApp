@@ -4,7 +4,7 @@
             "outputFile": "/home/wolf/AndroidStudioProjects/WareHouse/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/home/wolf/.gradle/caches/transforms-2/files-2.1/655dc37091b53a1d451eef0026f359d4/appcompat-1.1.0/res/values-v24/values-v24.xml",
+                    "source": "/home/wolf/.gradle/caches/transforms-2/files-2.1/830e6c678393d35e5da62f071866c0fc/appcompat-1.1.0/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/home/wolf/.gradle/caches/transforms-2/files-2.1/cbfb4e43f798a1cd04e53763d03adb1a/media-1.0.0/res/values-v24/values-v24.xml",
+                    "source": "/home/wolf/.gradle/caches/transforms-2/files-2.1/439966cf1b8cc1f27bb07abb4ba5dfaf/media-1.0.0/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

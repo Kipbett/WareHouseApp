@@ -54,6 +54,10 @@ public class ManagerHomeActivity extends AppCompatActivity implements Navigation
                 Intent intent_logout = new Intent(ManagerHomeActivity.this, UserLoginActivity.class);
                 startActivity(intent_logout);
 
+            case R.id.orders:
+                Intent intent_orders = new Intent(ManagerHomeActivity.this, OrdersActivity.class);
+                startActivity(intent_orders);
+
         }
 
         drawerLayout.closeDrawer(GravityCompat.START);

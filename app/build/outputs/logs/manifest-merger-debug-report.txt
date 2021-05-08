@@ -1,77 +1,77 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:2:1-77:12
-INJECTED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:2:1-77:12
-INJECTED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:2:1-77:12
-INJECTED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:2:1-77:12
-MERGED from [com.google.android.material:material:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/c81d39a79fa402136a8544175df432ff/material-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/655dc37091b53a1d451eef0026f359d4/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/wolf/.gradle/caches/transforms-2/files-2.1/d7f60efe91dc50766e89efcb1d143ec0/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/9467dea77a5cea6c22f80debdbcfbe43/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/8584395d637b6ec6e70bcbc794772af4/jetified-play-services-maps-17.0.0/AndroidManifest.xml:17:1-38:12
-MERGED from [com.google.android.gms:play-services-location:17.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/46a9bb48b40dd3c4e71fbc871a51bb9a/jetified-play-services-location-17.1.0/AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/fcf5af611bc33846b591cd77e4d0a38c/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.recyclerview:recyclerview:1.2.0-beta01] /home/wolf/.gradle/caches/transforms-2/files-2.1/ec3ad147b676c72d891b6994027d2f2e/recyclerview-1.2.0-beta01/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/1ce7437c734138fe7c65f18c04456af1/jetified-firebase-database-19.2.1/AndroidManifest.xml:15:1-38:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/b8767dc4d06925d0d3d12179fa4a1bb1/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/c7f8487a83fb70bc0fe95934361948bc/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:17:1-83:12
-MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/04b8b6a397cc03a1368142caa90be1c4/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/bfa0536cc071dedf48eaf1db42803845/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/6754113431c8f40305fea67c580b0d20/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-base:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/a17e0d90fa5028f6b7a3d2012e7b1e31/jetified-play-services-base-17.3.0/AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/08ccd60cb34ccbaaf15cce29daa0c7be/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.firebase:firebase-common:19.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/102cf539cbf63e175409b83d0f3d0b53/jetified-firebase-common-19.4.0/AndroidManifest.xml:15:1-40:12
-MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/e4346931c4c89b3edb538ab8efba98ad/jetified-play-services-tasks-17.1.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-basement:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/6087233d4881312aed66b4c6c9763e5f/jetified-play-services-basement-17.3.0/AndroidManifest.xml:17:1-28:12
-MERGED from [androidx.fragment:fragment:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/5d90597b18bcdcedcc1e0f509d077a2f/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/be239b009dfffc91932de98bebada164/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/b5b347edaaec9d51dce7fb65634d8751/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cardview:cardview:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/e15d67cf88966cd070b49db599666628/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/8dcd5551e8c8c2631db5646cd07087de/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.transition:transition:1.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/69a36d9bffe1ead383bcaebc78127d3d/transition-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/e4f7094beb6f5370b9fdcf59c66c5fd3/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/e9ce49bbb246328ed9fbef97d6aa62b4/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.media:media:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/cbfb4e43f798a1cd04e53763d03adb1a/media-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/db889ea64d16a07318448041b39e1285/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/860a7cb661f0f6b1bb67f57d27715b94/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/feef1f828a5e02b388bbcca05d9b3338/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/024d0659a3246560f1b743f7b8f5313c/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/2437bf31fd4f83ffb43a1b8c57cc8058/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/0c6a2007230dc3432bb5277430ffa586/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/c83b8dc50a8a93a5905719cf1bf92131/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/ab455e7f73159929447fa088924849d3/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.3.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/67144f8b09a953df3e7278900fce8670/core-1.3.2/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/1385980f4dab0a0e933b3abe362c2ed5/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/d0b6337f8ded1d5baa7ee5a05283f93a/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.firebase:firebase-components:16.0.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/ed7a00c530c4c8cfc4b2d6ebc42b3d14/jetified-firebase-components-16.0.1/AndroidManifest.xml:15:1-23:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/2c57ca5c5cb33722ba8060cd1e094990/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/8bbfa7597f1b8f7b6012b7db2dfae2bd/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/0cd7e7a97bc09653a5836529c4f1e6db/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/c19316ee24d18218817a41ce7b88a2ac/print-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/bd68bb064f2db47327311ef87fd77014/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/1e0ac948e1574d9a61fd93a1af702d27/jetified-lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/ca2fbf5bdd98647111ad2e610c162265/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/6ad62d6e0741895d86ebb766736d47b2/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/108ec4d3697c46900f7718a8c101df12/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/7bb25a4f6f211f0fd403b91af1b9692f/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/d9547dd9b77552af1c40af7607ce7366/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/a5ff18c5cc9b30774e8a197dc12d7cbf/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/83c7a8e78738d5f20908da6814e980d1/jetified-firebase-database-collection-17.0.0/AndroidManifest.xml:2:1-7:12
-INJECTED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:2:1-77:12
-INJECTED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:2:1-77:12
-INJECTED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:2:1-77:12
+ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:2:1-82:12
+INJECTED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:2:1-82:12
+INJECTED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:2:1-82:12
+INJECTED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:2:1-82:12
+MERGED from [com.google.android.material:material:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/c7288d93503d383f04a5134b022cf105/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/830e6c678393d35e5da62f071866c0fc/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/wolf/.gradle/caches/transforms-2/files-2.1/acb0fc04e44692aba8b945bcc5c64dda/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/d43ec17db5d741fd4f6cd809fe013547/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/d9a7a5ade5772b5f380a98b30bbdc236/jetified-play-services-maps-17.0.0/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:17.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/7c279b396edabe3e074fe11168ae713c/jetified-play-services-location-17.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/ba2f6d14ee261b58d0d59648fdd982bb/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.0-beta01] /home/wolf/.gradle/caches/transforms-2/files-2.1/6de51bfcab70aaabca2fbaad1018cfe4/recyclerview-1.2.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/1620663854effe4c5ae71a0d98b6fa5b/jetified-firebase-database-19.2.1/AndroidManifest.xml:15:1-38:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/795c777fa42a2b7dd69e6943f1778c9f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/9343bafb14981f23529b908b282099d2/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:17:1-83:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/4ffa6d4c273de907c3ddf205db3ad4bd/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/9c2058a0aff1793f55def61ad5773c06/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/fc22c4c49607a407a8d259c1369a03a1/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/84e58fd6108ff2f7895021fd86172894/jetified-play-services-base-17.3.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/9a40470bb3fce1e7446ad21e7b911d39/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common:19.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/49948eb9c412920c64bb485a5884136b/jetified-firebase-common-19.4.0/AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/976be9e20c2a992cda3f394f3ca7e31c/jetified-play-services-tasks-17.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/c793ef5410e32223e472fd4f639b7ae6/jetified-play-services-basement-17.3.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/10200895828a97f345b2c6d8b62c92e0/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/4d8f75c1717c12b8e9bc90add2d5b94f/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/98e4eac5dbabdc03dc9a3208d4ac5a12/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/6f8a1c65b62d3d41d59ae57c34d2003d/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/7298b494b9a7f8fb03baaa6f856a206c/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/250ab090dfc5bec91fd73a0507b9ad4f/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/e17bdec46d5ed3de9528472d4402ade8/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/cebdbf0203f70fcdd27366005c819665/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/439966cf1b8cc1f27bb07abb4ba5dfaf/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/a08a61d091975000a4dce67a59e2d28a/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/d344556663e01f06659c4b7ee7cd264e/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/b0cf5ff9a9e3bf92de74d76f28de8f48/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/8c87e949e9f9d3cdf435adfefa7cc286/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/a1ba948683f1cc3fb6b9651269eda2cf/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/f47ed8effeee6c20e76fded34a1f3fde/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/6217ae39eb11b529fe17c9fec473abce/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/227b0a1796476d93b382253a71582657/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/8f4d682c0342e0ab9cc18f208bf5b22b/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/fe9ad77c19282966faa3091ffe8b7bde/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/1c2986d6bd65887558e43389ae3b9359/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-components:16.0.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/479dacbdf74f6788c924958f7d8965d7/jetified-firebase-components-16.0.1/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/f814974419152abc412d9d41345c2be3/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/a577a4f2d9e6384dbceeb5e0ea30a993/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/222d2d3818c539e35ee4f60deabbc412/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/5e02444273c6a07c53ce8cd033ff27e1/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/593fd7784a3adf6978e158c9ea2ee8a9/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/a4dd3c7a0810a6ffff32d22e203a9277/jetified-lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/bba6a06bbefb63273e8da713ebe27bbc/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/faf960dbd043717057ec252f5ae47762/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/a7f922414fff1921feb09903e507b7cf/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/f74865da85a7a70a13fd763f363f9a39/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/ec7322b324972afb3f9d545d46482270/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/5d2605c4aa56930ff6c6da778c82889b/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/3558ba60a18af00ce80bfa66ffb6083d/jetified-firebase-database-collection-17.0.0/AndroidManifest.xml:2:1-7:12
+INJECTED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:2:1-82:12
+INJECTED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:2:1-82:12
+INJECTED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:2:1-82:12
 	package
 		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:3:5-36
 		INJECTED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml
 		INJECTED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:2:1-77:12
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:2:1-82:12
 		INJECTED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:2:1-77:12
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:2:1-82:12
 		INJECTED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:2:11-69
@@ -93,268 +93,292 @@ ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManife
 		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:12:22-64
 uses-permission#android.permission.INTERNET
 ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:13:5-67
-MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/8584395d637b6ec6e70bcbc794772af4/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
-MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/8584395d637b6ec6e70bcbc794772af4/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
-MERGED from [com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/1ce7437c734138fe7c65f18c04456af1/jetified-firebase-database-19.2.1/AndroidManifest.xml:26:5-67
-MERGED from [com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/1ce7437c734138fe7c65f18c04456af1/jetified-firebase-database-19.2.1/AndroidManifest.xml:26:5-67
-MERGED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/d9a7a5ade5772b5f380a98b30bbdc236/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/d9a7a5ade5772b5f380a98b30bbdc236/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/1620663854effe4c5ae71a0d98b6fa5b/jetified-firebase-database-19.2.1/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/1620663854effe4c5ae71a0d98b6fa5b/jetified-firebase-database-19.2.1/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:23:5-67
 	android:name
 		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:13:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:14:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:15:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/d9a7a5ade5772b5f380a98b30bbdc236/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/d9a7a5ade5772b5f380a98b30bbdc236/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/1620663854effe4c5ae71a0d98b6fa5b/jetified-firebase-database-19.2.1/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/1620663854effe4c5ae71a0d98b6fa5b/jetified-firebase-database-19.2.1/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:15:22-76
 application
-ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:15:5-75:19
-MERGED from [com.google.android.material:material:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/c81d39a79fa402136a8544175df432ff/material-1.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/c81d39a79fa402136a8544175df432ff/material-1.1.0/AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/wolf/.gradle/caches/transforms-2/files-2.1/d7f60efe91dc50766e89efcb1d143ec0/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/wolf/.gradle/caches/transforms-2/files-2.1/d7f60efe91dc50766e89efcb1d143ec0/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
-MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/8584395d637b6ec6e70bcbc794772af4/jetified-play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
-MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/8584395d637b6ec6e70bcbc794772af4/jetified-play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
-MERGED from [com.google.android.gms:play-services-location:17.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/46a9bb48b40dd3c4e71fbc871a51bb9a/jetified-play-services-location-17.1.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-location:17.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/46a9bb48b40dd3c4e71fbc871a51bb9a/jetified-play-services-location-17.1.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/1ce7437c734138fe7c65f18c04456af1/jetified-firebase-database-19.2.1/AndroidManifest.xml:28:5-36:19
-MERGED from [com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/1ce7437c734138fe7c65f18c04456af1/jetified-firebase-database-19.2.1/AndroidManifest.xml:28:5-36:19
-MERGED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:26:5-81:19
-MERGED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:26:5-81:19
-MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/04b8b6a397cc03a1368142caa90be1c4/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/04b8b6a397cc03a1368142caa90be1c4/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/6754113431c8f40305fea67c580b0d20/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/6754113431c8f40305fea67c580b0d20/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-base:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/a17e0d90fa5028f6b7a3d2012e7b1e31/jetified-play-services-base-17.3.0/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/a17e0d90fa5028f6b7a3d2012e7b1e31/jetified-play-services-base-17.3.0/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/08ccd60cb34ccbaaf15cce29daa0c7be/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/08ccd60cb34ccbaaf15cce29daa0c7be/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.firebase:firebase-common:19.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/102cf539cbf63e175409b83d0f3d0b53/jetified-firebase-common-19.4.0/AndroidManifest.xml:25:5-38:19
-MERGED from [com.google.firebase:firebase-common:19.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/102cf539cbf63e175409b83d0f3d0b53/jetified-firebase-common-19.4.0/AndroidManifest.xml:25:5-38:19
-MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/e4346931c4c89b3edb538ab8efba98ad/jetified-play-services-tasks-17.1.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/e4346931c4c89b3edb538ab8efba98ad/jetified-play-services-tasks-17.1.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-basement:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/6087233d4881312aed66b4c6c9763e5f/jetified-play-services-basement-17.3.0/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/6087233d4881312aed66b4c6c9763e5f/jetified-play-services-basement-17.3.0/AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.core:core:1.3.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/67144f8b09a953df3e7278900fce8670/core-1.3.2/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.3.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/67144f8b09a953df3e7278900fce8670/core-1.3.2/AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/8bbfa7597f1b8f7b6012b7db2dfae2bd/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/8bbfa7597f1b8f7b6012b7db2dfae2bd/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:17:5-80:19
+MERGED from [com.google.android.material:material:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/c7288d93503d383f04a5134b022cf105/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/c7288d93503d383f04a5134b022cf105/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/wolf/.gradle/caches/transforms-2/files-2.1/acb0fc04e44692aba8b945bcc5c64dda/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/wolf/.gradle/caches/transforms-2/files-2.1/acb0fc04e44692aba8b945bcc5c64dda/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/d9a7a5ade5772b5f380a98b30bbdc236/jetified-play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/d9a7a5ade5772b5f380a98b30bbdc236/jetified-play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:17.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/7c279b396edabe3e074fe11168ae713c/jetified-play-services-location-17.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/7c279b396edabe3e074fe11168ae713c/jetified-play-services-location-17.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/1620663854effe4c5ae71a0d98b6fa5b/jetified-firebase-database-19.2.1/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/1620663854effe4c5ae71a0d98b6fa5b/jetified-firebase-database-19.2.1/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/4ffa6d4c273de907c3ddf205db3ad4bd/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/4ffa6d4c273de907c3ddf205db3ad4bd/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/fc22c4c49607a407a8d259c1369a03a1/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/fc22c4c49607a407a8d259c1369a03a1/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/84e58fd6108ff2f7895021fd86172894/jetified-play-services-base-17.3.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/84e58fd6108ff2f7895021fd86172894/jetified-play-services-base-17.3.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/9a40470bb3fce1e7446ad21e7b911d39/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/9a40470bb3fce1e7446ad21e7b911d39/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:19.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/49948eb9c412920c64bb485a5884136b/jetified-firebase-common-19.4.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:19.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/49948eb9c412920c64bb485a5884136b/jetified-firebase-common-19.4.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/976be9e20c2a992cda3f394f3ca7e31c/jetified-play-services-tasks-17.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/976be9e20c2a992cda3f394f3ca7e31c/jetified-play-services-tasks-17.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/c793ef5410e32223e472fd4f639b7ae6/jetified-play-services-basement-17.3.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/c793ef5410e32223e472fd4f639b7ae6/jetified-play-services-basement-17.3.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/8f4d682c0342e0ab9cc18f208bf5b22b/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/8f4d682c0342e0ab9cc18f208bf5b22b/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/a577a4f2d9e6384dbceeb5e0ea30a993/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/a577a4f2d9e6384dbceeb5e0ea30a993/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.3.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/67144f8b09a953df3e7278900fce8670/core-1.3.2/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.3.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/8f4d682c0342e0ab9cc18f208bf5b22b/core-1.3.2/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:20:9-35
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:22:9-35
 	android:label
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:18:9-41
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:20:9-41
 	android:roundIcon
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:19:9-53
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:21:9-53
 	android:icon
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:17:9-48
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:19:9-48
 	android:allowBackup
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:16:9-35
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:18:9-35
 	android:theme
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:21:9-47
-activity#com.example.warehouse.ui.AdminWarehouseActivity
-ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:22:9-72
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:23:9-47
+activity#com.example.warehouse.ui.admin.OrdersActivity
+ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:24:9-25:65
+	android:theme
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:25:13-63
 	android:name
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:22:19-60
-activity#com.example.warehouse.ui.RegistrationActivity
-ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:23:9-61
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:24:19-58
+activity#com.example.warehouse.ui.admin.UpdateWarehouseActivity
+ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:26:9-70
 	android:name
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:23:19-58
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:26:19-67
+activity#com.example.warehouse.ui.admin.AdminWarehouseActivity
+ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:27:9-69
+	android:name
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:27:19-66
+activity#com.example.warehouse.ui.client.RegistrationActivity
+ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:28:9-68
+	android:name
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:28:19-65
 activity#com.example.warehouse.ui.UserLoginActivity
-ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:24:9-58
+ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:29:9-58
 	android:name
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:24:19-55
-activity#com.example.warehouse.ui.RemoveItemActivity
-ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:25:9-27:66
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:29:19-55
+activity#com.example.warehouse.ui.client.RemoveItemActivity
+ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:30:9-32:66
 	android:theme
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:27:13-63
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:32:13-63
 	android:name
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:26:13-50
-activity#com.example.warehouse.ui.AddItemActivity
-ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:28:9-30:66
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:31:13-57
+activity#com.example.warehouse.ui.client.AddItemActivity
+ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:33:9-35:66
 	android:theme
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:30:13-63
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:35:13-63
 	android:name
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:29:13-47
-activity#com.example.warehouse.ui.InventoryItemActivity
-ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:31:9-33:66
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:34:13-54
+activity#com.example.warehouse.ui.client.InventoryItemActivity
+ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:36:9-38:66
 	android:theme
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:33:13-63
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:38:13-63
 	android:name
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:32:13-53
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:37:13-60
 activity#com.example.warehouse.ui.BookingActivity
-ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:34:9-36:66
+ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:39:9-41:66
 	android:theme
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:36:13-63
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:41:13-63
 	android:name
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:35:13-47
-activity#com.example.warehouse.ui.InventoryActivity
-ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:37:9-39:66
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:40:13-47
+activity#com.example.warehouse.ui.client.InventoryActivity
+ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:42:9-44:66
 	android:theme
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:39:13-63
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:44:13-63
 	android:name
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:38:13-49
-activity#com.example.warehouse.ui.WarehouseDetailsActivity
-ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:40:9-42:66
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:43:13-56
+activity#com.example.warehouse.ui.client.WarehouseDetailsActivity
+ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:45:9-47:66
 	android:theme
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:42:13-63
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:47:13-63
 	android:name
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:41:13-56
-activity#com.example.warehouse.ui.AddWarehouseActivity
-ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:43:9-45:66
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:46:13-63
+activity#com.example.warehouse.ui.admin.AddWarehouseActivity
+ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:48:9-50:66
 	android:theme
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:45:13-63
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:50:13-63
 	android:name
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:44:13-52
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:49:13-58
 meta-data#com.google.android.geo.API_KEY
-ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:54:9-56:55
+ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:59:9-61:55
 	android:value
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:56:13-52
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:61:13-52
 	android:name
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:55:13-58
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:60:13-58
 activity#com.example.warehouse.ui.MapsActivity
-ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:58:9-60:59
+ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:63:9-65:59
 	android:label
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:60:13-56
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:65:13-56
 	android:name
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:59:13-44
-activity#com.example.warehouse.ui.ManagerHomeActivity
-ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:61:9-63:66
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:64:13-44
+activity#com.example.warehouse.ui.admin.ManagerHomeActivity
+ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:66:9-68:66
 	android:theme
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:63:13-63
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:68:13-63
 	android:name
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:62:13-51
-activity#com.example.warehouse.ui.ClientHomeActivity
-ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:64:9-66:66
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:67:13-57
+activity#com.example.warehouse.ui.client.ClientHomeActivity
+ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:69:9-71:66
 	android:theme
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:66:13-63
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:71:13-63
 	android:name
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:65:13-50
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:70:13-57
 activity#com.example.warehouse.ui.SplashActivity
-ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:67:9-73:20
+ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:72:9-78:20
 	android:name
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:67:19-52
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:72:19-52
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:68:13-72:29
+ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:73:13-77:29
 action#android.intent.action.MAIN
-ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:69:17-69
+ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:74:17-69
 	android:name
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:69:25-66
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:74:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:71:17-77
+ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:76:17-77
 	android:name
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:71:27-74
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:76:27-74
 activity#com.example.warehouse.ui.MainActivity
-ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:74:9-53
+ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:79:9-53
 	android:name
-		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:74:19-50
+		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml:79:19-50
 uses-sdk
 INJECTED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml
 INJECTED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml
-MERGED from [com.google.android.material:material:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/c81d39a79fa402136a8544175df432ff/material-1.1.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/c81d39a79fa402136a8544175df432ff/material-1.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/655dc37091b53a1d451eef0026f359d4/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/655dc37091b53a1d451eef0026f359d4/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/wolf/.gradle/caches/transforms-2/files-2.1/d7f60efe91dc50766e89efcb1d143ec0/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/wolf/.gradle/caches/transforms-2/files-2.1/d7f60efe91dc50766e89efcb1d143ec0/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/9467dea77a5cea6c22f80debdbcfbe43/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/9467dea77a5cea6c22f80debdbcfbe43/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/8584395d637b6ec6e70bcbc794772af4/jetified-play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/8584395d637b6ec6e70bcbc794772af4/jetified-play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-location:17.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/46a9bb48b40dd3c4e71fbc871a51bb9a/jetified-play-services-location-17.1.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-location:17.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/46a9bb48b40dd3c4e71fbc871a51bb9a/jetified-play-services-location-17.1.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/fcf5af611bc33846b591cd77e4d0a38c/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/fcf5af611bc33846b591cd77e4d0a38c/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.2.0-beta01] /home/wolf/.gradle/caches/transforms-2/files-2.1/ec3ad147b676c72d891b6994027d2f2e/recyclerview-1.2.0-beta01/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.2.0-beta01] /home/wolf/.gradle/caches/transforms-2/files-2.1/ec3ad147b676c72d891b6994027d2f2e/recyclerview-1.2.0-beta01/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/1ce7437c734138fe7c65f18c04456af1/jetified-firebase-database-19.2.1/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/1ce7437c734138fe7c65f18c04456af1/jetified-firebase-database-19.2.1/AndroidManifest.xml:19:5-21:41
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/b8767dc4d06925d0d3d12179fa4a1bb1/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/b8767dc4d06925d0d3d12179fa4a1bb1/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/c7f8487a83fb70bc0fe95934361948bc/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/c7f8487a83fb70bc0fe95934361948bc/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:21:5-44
-MERGED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:21:5-44
-MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/04b8b6a397cc03a1368142caa90be1c4/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/04b8b6a397cc03a1368142caa90be1c4/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/bfa0536cc071dedf48eaf1db42803845/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/bfa0536cc071dedf48eaf1db42803845/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/6754113431c8f40305fea67c580b0d20/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/6754113431c8f40305fea67c580b0d20/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/a17e0d90fa5028f6b7a3d2012e7b1e31/jetified-play-services-base-17.3.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/a17e0d90fa5028f6b7a3d2012e7b1e31/jetified-play-services-base-17.3.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/08ccd60cb34ccbaaf15cce29daa0c7be/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/08ccd60cb34ccbaaf15cce29daa0c7be/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-common:19.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/102cf539cbf63e175409b83d0f3d0b53/jetified-firebase-common-19.4.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-common:19.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/102cf539cbf63e175409b83d0f3d0b53/jetified-firebase-common-19.4.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/e4346931c4c89b3edb538ab8efba98ad/jetified-play-services-tasks-17.1.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/e4346931c4c89b3edb538ab8efba98ad/jetified-play-services-tasks-17.1.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/6087233d4881312aed66b4c6c9763e5f/jetified-play-services-basement-17.3.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/6087233d4881312aed66b4c6c9763e5f/jetified-play-services-basement-17.3.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/5d90597b18bcdcedcc1e0f509d077a2f/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/5d90597b18bcdcedcc1e0f509d077a2f/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/be239b009dfffc91932de98bebada164/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/be239b009dfffc91932de98bebada164/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/b5b347edaaec9d51dce7fb65634d8751/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/b5b347edaaec9d51dce7fb65634d8751/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/e15d67cf88966cd070b49db599666628/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/e15d67cf88966cd070b49db599666628/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/8dcd5551e8c8c2631db5646cd07087de/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/8dcd5551e8c8c2631db5646cd07087de/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/69a36d9bffe1ead383bcaebc78127d3d/transition-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/69a36d9bffe1ead383bcaebc78127d3d/transition-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/e4f7094beb6f5370b9fdcf59c66c5fd3/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/e4f7094beb6f5370b9fdcf59c66c5fd3/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/e9ce49bbb246328ed9fbef97d6aa62b4/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/e9ce49bbb246328ed9fbef97d6aa62b4/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.media:media:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/cbfb4e43f798a1cd04e53763d03adb1a/media-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/cbfb4e43f798a1cd04e53763d03adb1a/media-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/db889ea64d16a07318448041b39e1285/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/db889ea64d16a07318448041b39e1285/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/860a7cb661f0f6b1bb67f57d27715b94/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/860a7cb661f0f6b1bb67f57d27715b94/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/feef1f828a5e02b388bbcca05d9b3338/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/feef1f828a5e02b388bbcca05d9b3338/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/024d0659a3246560f1b743f7b8f5313c/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/024d0659a3246560f1b743f7b8f5313c/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/2437bf31fd4f83ffb43a1b8c57cc8058/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/2437bf31fd4f83ffb43a1b8c57cc8058/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/0c6a2007230dc3432bb5277430ffa586/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/0c6a2007230dc3432bb5277430ffa586/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/c83b8dc50a8a93a5905719cf1bf92131/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/c83b8dc50a8a93a5905719cf1bf92131/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/ab455e7f73159929447fa088924849d3/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/ab455e7f73159929447fa088924849d3/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.3.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/67144f8b09a953df3e7278900fce8670/core-1.3.2/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.3.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/67144f8b09a953df3e7278900fce8670/core-1.3.2/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/1385980f4dab0a0e933b3abe362c2ed5/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/1385980f4dab0a0e933b3abe362c2ed5/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/d0b6337f8ded1d5baa7ee5a05283f93a/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/d0b6337f8ded1d5baa7ee5a05283f93a/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-components:16.0.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/ed7a00c530c4c8cfc4b2d6ebc42b3d14/jetified-firebase-components-16.0.1/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-components:16.0.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/ed7a00c530c4c8cfc4b2d6ebc42b3d14/jetified-firebase-components-16.0.1/AndroidManifest.xml:19:5-21:41
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/2c57ca5c5cb33722ba8060cd1e094990/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/2c57ca5c5cb33722ba8060cd1e094990/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/8bbfa7597f1b8f7b6012b7db2dfae2bd/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/8bbfa7597f1b8f7b6012b7db2dfae2bd/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/0cd7e7a97bc09653a5836529c4f1e6db/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/0cd7e7a97bc09653a5836529c4f1e6db/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/c19316ee24d18218817a41ce7b88a2ac/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/c19316ee24d18218817a41ce7b88a2ac/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/bd68bb064f2db47327311ef87fd77014/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/bd68bb064f2db47327311ef87fd77014/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/1e0ac948e1574d9a61fd93a1af702d27/jetified-lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/1e0ac948e1574d9a61fd93a1af702d27/jetified-lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/ca2fbf5bdd98647111ad2e610c162265/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/ca2fbf5bdd98647111ad2e610c162265/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/6ad62d6e0741895d86ebb766736d47b2/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/6ad62d6e0741895d86ebb766736d47b2/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/108ec4d3697c46900f7718a8c101df12/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/108ec4d3697c46900f7718a8c101df12/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/7bb25a4f6f211f0fd403b91af1b9692f/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/7bb25a4f6f211f0fd403b91af1b9692f/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/d9547dd9b77552af1c40af7607ce7366/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/d9547dd9b77552af1c40af7607ce7366/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/a5ff18c5cc9b30774e8a197dc12d7cbf/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/a5ff18c5cc9b30774e8a197dc12d7cbf/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/83c7a8e78738d5f20908da6814e980d1/jetified-firebase-database-collection-17.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/83c7a8e78738d5f20908da6814e980d1/jetified-firebase-database-collection-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/c7288d93503d383f04a5134b022cf105/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/c7288d93503d383f04a5134b022cf105/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/830e6c678393d35e5da62f071866c0fc/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/830e6c678393d35e5da62f071866c0fc/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/wolf/.gradle/caches/transforms-2/files-2.1/acb0fc04e44692aba8b945bcc5c64dda/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/wolf/.gradle/caches/transforms-2/files-2.1/acb0fc04e44692aba8b945bcc5c64dda/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/d43ec17db5d741fd4f6cd809fe013547/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/d43ec17db5d741fd4f6cd809fe013547/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/d9a7a5ade5772b5f380a98b30bbdc236/jetified-play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/d9a7a5ade5772b5f380a98b30bbdc236/jetified-play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/7c279b396edabe3e074fe11168ae713c/jetified-play-services-location-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/7c279b396edabe3e074fe11168ae713c/jetified-play-services-location-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/ba2f6d14ee261b58d0d59648fdd982bb/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/ba2f6d14ee261b58d0d59648fdd982bb/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0-beta01] /home/wolf/.gradle/caches/transforms-2/files-2.1/6de51bfcab70aaabca2fbaad1018cfe4/recyclerview-1.2.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0-beta01] /home/wolf/.gradle/caches/transforms-2/files-2.1/6de51bfcab70aaabca2fbaad1018cfe4/recyclerview-1.2.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/1620663854effe4c5ae71a0d98b6fa5b/jetified-firebase-database-19.2.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/1620663854effe4c5ae71a0d98b6fa5b/jetified-firebase-database-19.2.1/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/795c777fa42a2b7dd69e6943f1778c9f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/795c777fa42a2b7dd69e6943f1778c9f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/9343bafb14981f23529b908b282099d2/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/9343bafb14981f23529b908b282099d2/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/4ffa6d4c273de907c3ddf205db3ad4bd/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/4ffa6d4c273de907c3ddf205db3ad4bd/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/9c2058a0aff1793f55def61ad5773c06/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/9c2058a0aff1793f55def61ad5773c06/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/fc22c4c49607a407a8d259c1369a03a1/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/fc22c4c49607a407a8d259c1369a03a1/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/84e58fd6108ff2f7895021fd86172894/jetified-play-services-base-17.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/84e58fd6108ff2f7895021fd86172894/jetified-play-services-base-17.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/9a40470bb3fce1e7446ad21e7b911d39/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/9a40470bb3fce1e7446ad21e7b911d39/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/49948eb9c412920c64bb485a5884136b/jetified-firebase-common-19.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/49948eb9c412920c64bb485a5884136b/jetified-firebase-common-19.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/976be9e20c2a992cda3f394f3ca7e31c/jetified-play-services-tasks-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/976be9e20c2a992cda3f394f3ca7e31c/jetified-play-services-tasks-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/c793ef5410e32223e472fd4f639b7ae6/jetified-play-services-basement-17.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/c793ef5410e32223e472fd4f639b7ae6/jetified-play-services-basement-17.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/10200895828a97f345b2c6d8b62c92e0/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/10200895828a97f345b2c6d8b62c92e0/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/4d8f75c1717c12b8e9bc90add2d5b94f/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/4d8f75c1717c12b8e9bc90add2d5b94f/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/98e4eac5dbabdc03dc9a3208d4ac5a12/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/98e4eac5dbabdc03dc9a3208d4ac5a12/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/6f8a1c65b62d3d41d59ae57c34d2003d/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/6f8a1c65b62d3d41d59ae57c34d2003d/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/7298b494b9a7f8fb03baaa6f856a206c/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/7298b494b9a7f8fb03baaa6f856a206c/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/250ab090dfc5bec91fd73a0507b9ad4f/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/250ab090dfc5bec91fd73a0507b9ad4f/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/e17bdec46d5ed3de9528472d4402ade8/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/e17bdec46d5ed3de9528472d4402ade8/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/cebdbf0203f70fcdd27366005c819665/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/cebdbf0203f70fcdd27366005c819665/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/439966cf1b8cc1f27bb07abb4ba5dfaf/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/439966cf1b8cc1f27bb07abb4ba5dfaf/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/a08a61d091975000a4dce67a59e2d28a/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/a08a61d091975000a4dce67a59e2d28a/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/d344556663e01f06659c4b7ee7cd264e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/d344556663e01f06659c4b7ee7cd264e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/b0cf5ff9a9e3bf92de74d76f28de8f48/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/b0cf5ff9a9e3bf92de74d76f28de8f48/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/8c87e949e9f9d3cdf435adfefa7cc286/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/8c87e949e9f9d3cdf435adfefa7cc286/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/a1ba948683f1cc3fb6b9651269eda2cf/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/a1ba948683f1cc3fb6b9651269eda2cf/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/f47ed8effeee6c20e76fded34a1f3fde/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/f47ed8effeee6c20e76fded34a1f3fde/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/6217ae39eb11b529fe17c9fec473abce/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/6217ae39eb11b529fe17c9fec473abce/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/227b0a1796476d93b382253a71582657/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/227b0a1796476d93b382253a71582657/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/8f4d682c0342e0ab9cc18f208bf5b22b/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/8f4d682c0342e0ab9cc18f208bf5b22b/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/fe9ad77c19282966faa3091ffe8b7bde/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/fe9ad77c19282966faa3091ffe8b7bde/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/1c2986d6bd65887558e43389ae3b9359/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/1c2986d6bd65887558e43389ae3b9359/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:16.0.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/479dacbdf74f6788c924958f7d8965d7/jetified-firebase-components-16.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/479dacbdf74f6788c924958f7d8965d7/jetified-firebase-components-16.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/f814974419152abc412d9d41345c2be3/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/f814974419152abc412d9d41345c2be3/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/a577a4f2d9e6384dbceeb5e0ea30a993/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/a577a4f2d9e6384dbceeb5e0ea30a993/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/222d2d3818c539e35ee4f60deabbc412/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/222d2d3818c539e35ee4f60deabbc412/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/5e02444273c6a07c53ce8cd033ff27e1/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/5e02444273c6a07c53ce8cd033ff27e1/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/593fd7784a3adf6978e158c9ea2ee8a9/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/593fd7784a3adf6978e158c9ea2ee8a9/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/a4dd3c7a0810a6ffff32d22e203a9277/jetified-lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/a4dd3c7a0810a6ffff32d22e203a9277/jetified-lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/bba6a06bbefb63273e8da713ebe27bbc/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/bba6a06bbefb63273e8da713ebe27bbc/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/faf960dbd043717057ec252f5ae47762/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/faf960dbd043717057ec252f5ae47762/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/a7f922414fff1921feb09903e507b7cf/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/a7f922414fff1921feb09903e507b7cf/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/f74865da85a7a70a13fd763f363f9a39/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/f74865da85a7a70a13fd763f363f9a39/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/ec7322b324972afb3f9d545d46482270/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/ec7322b324972afb3f9d545d46482270/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/5d2605c4aa56930ff6c6da778c82889b/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/5d2605c4aa56930ff6c6da778c82889b/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/3558ba60a18af00ce80bfa66ffb6083d/jetified-firebase-database-collection-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/3558ba60a18af00ce80bfa66ffb6083d/jetified-firebase-database-collection-17.0.0/AndroidManifest.xml:5:5-44
 INJECTED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml
 INJECTED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
@@ -365,137 +389,129 @@ INJECTED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidMan
 		INJECTED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml
 		ADDED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml
 		INJECTED from /home/wolf/AndroidStudioProjects/WareHouse/app/src/main/AndroidManifest.xml
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/8584395d637b6ec6e70bcbc794772af4/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
-MERGED from [com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/1ce7437c734138fe7c65f18c04456af1/jetified-firebase-database-19.2.1/AndroidManifest.xml:25:5-79
-MERGED from [com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/1ce7437c734138fe7c65f18c04456af1/jetified-firebase-database-19.2.1/AndroidManifest.xml:25:5-79
-MERGED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:24:5-79
-	android:name
-		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/8584395d637b6ec6e70bcbc794772af4/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:22-76
 uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/8584395d637b6ec6e70bcbc794772af4/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/d9a7a5ade5772b5f380a98b30bbdc236/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
 	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/8584395d637b6ec6e70bcbc794772af4/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/d9a7a5ade5772b5f380a98b30bbdc236/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
 	android:required
-		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/8584395d637b6ec6e70bcbc794772af4/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/d9a7a5ade5772b5f380a98b30bbdc236/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
 uses-library#org.apache.http.legacy
-ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/8584395d637b6ec6e70bcbc794772af4/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/d9a7a5ade5772b5f380a98b30bbdc236/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
 	android:required
-		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/8584395d637b6ec6e70bcbc794772af4/jetified-play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/d9a7a5ade5772b5f380a98b30bbdc236/jetified-play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
 	android:name
-		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/8584395d637b6ec6e70bcbc794772af4/jetified-play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/d9a7a5ade5772b5f380a98b30bbdc236/jetified-play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/1ce7437c734138fe7c65f18c04456af1/jetified-firebase-database-19.2.1/AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:74:9-80:19
-MERGED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:74:9-80:19
-MERGED from [com.google.firebase:firebase-common:19.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/102cf539cbf63e175409b83d0f3d0b53/jetified-firebase-common-19.4.0/AndroidManifest.xml:33:9-37:35
-MERGED from [com.google.firebase:firebase-common:19.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/102cf539cbf63e175409b83d0f3d0b53/jetified-firebase-common-19.4.0/AndroidManifest.xml:33:9-37:35
+ADDED from [com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/1620663854effe4c5ae71a0d98b6fa5b/jetified-firebase-database-19.2.1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-common:19.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/49948eb9c412920c64bb485a5884136b/jetified-firebase-common-19.4.0/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:19.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/49948eb9c412920c64bb485a5884136b/jetified-firebase-common-19.4.0/AndroidManifest.xml:33:9-37:35
 	android:exported
-		ADDED from [com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/1ce7437c734138fe7c65f18c04456af1/jetified-firebase-database-19.2.1/AndroidManifest.xml:31:13-37
+		ADDED from [com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/1620663854effe4c5ae71a0d98b6fa5b/jetified-firebase-database-19.2.1/AndroidManifest.xml:31:13-37
 	tools:targetApi
-		ADDED from [com.google.firebase:firebase-common:19.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/102cf539cbf63e175409b83d0f3d0b53/jetified-firebase-common-19.4.0/AndroidManifest.xml:37:13-32
+		ADDED from [com.google.firebase:firebase-common:19.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/49948eb9c412920c64bb485a5884136b/jetified-firebase-common-19.4.0/AndroidManifest.xml:37:13-32
 	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:19.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/102cf539cbf63e175409b83d0f3d0b53/jetified-firebase-common-19.4.0/AndroidManifest.xml:35:13-43
+		ADDED from [com.google.firebase:firebase-common:19.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/49948eb9c412920c64bb485a5884136b/jetified-firebase-common-19.4.0/AndroidManifest.xml:35:13-43
 	android:name
-		ADDED from [com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/1ce7437c734138fe7c65f18c04456af1/jetified-firebase-database-19.2.1/AndroidManifest.xml:30:13-84
+		ADDED from [com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/1620663854effe4c5ae71a0d98b6fa5b/jetified-firebase-database-19.2.1/AndroidManifest.xml:30:13-84
 meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
-ADDED from [com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/1ce7437c734138fe7c65f18c04456af1/jetified-firebase-database-19.2.1/AndroidManifest.xml:32:13-34:85
+ADDED from [com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/1620663854effe4c5ae71a0d98b6fa5b/jetified-firebase-database-19.2.1/AndroidManifest.xml:32:13-34:85
 	android:value
-		ADDED from [com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/1ce7437c734138fe7c65f18c04456af1/jetified-firebase-database-19.2.1/AndroidManifest.xml:34:17-82
+		ADDED from [com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/1620663854effe4c5ae71a0d98b6fa5b/jetified-firebase-database-19.2.1/AndroidManifest.xml:34:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/1ce7437c734138fe7c65f18c04456af1/jetified-firebase-database-19.2.1/AndroidManifest.xml:33:17-109
+		ADDED from [com.google.firebase:firebase-database:19.2.1] /home/wolf/.gradle/caches/transforms-2/files-2.1/1620663854effe4c5ae71a0d98b6fa5b/jetified-firebase-database-19.2.1/AndroidManifest.xml:33:17-109
 activity#com.google.firebase.auth.internal.GenericIdpActivity
-ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:27:9-44:20
+ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:27:9-44:20
 	android:excludeFromRecents
-		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:29:13-46
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:29:13-46
 	android:launchMode
-		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:31:13-44
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:31:13-44
 	android:exported
-		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:30:13-36
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:30:13-36
 	android:theme
-		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:32:13-72
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:32:13-72
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:28:13-80
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:28:13-80
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
-ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:33:13-43:29
+ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:33:13-43:29
 action#android.intent.action.VIEW
-ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:34:17-69
+ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:34:17-69
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:34:25-66
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:34:25-66
 category#android.intent.category.DEFAULT
-ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:36:17-76
+ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:36:17-76
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:36:27-73
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:36:27-73
 category#android.intent.category.BROWSABLE
-ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:37:17-78
+ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:37:17-78
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:37:27-75
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:37:27-75
 data
-ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:39:17-42:51
+ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:39:17-42:51
 	android:path
-		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:41:21-37
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:41:21-37
 	android:host
-		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:40:21-49
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:40:21-49
 	android:scheme
-		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:42:21-48
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:42:21-48
 activity#com.google.firebase.auth.internal.RecaptchaActivity
-ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:45:9-62:20
+ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:45:9-62:20
 	android:excludeFromRecents
-		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:47:13-46
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:47:13-46
 	android:launchMode
-		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:49:13-44
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:49:13-44
 	android:exported
-		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:48:13-36
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:48:13-36
 	android:theme
-		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:50:13-72
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:50:13-72
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:46:13-79
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:46:13-79
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
-ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:51:13-61:29
+ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:51:13-61:29
 service#com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService
-ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:64:9-73:19
+ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:64:9-73:19
 	android:enabled
-		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:66:13-35
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:66:13-35
 	android:exported
-		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:67:13-37
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:67:13-37
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:65:13-101
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:65:13-101
 intent-filter#action:name:com.google.firebase.auth.api.gms.service.START+category:name:android.intent.category.DEFAULT
-ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:68:13-72:29
+ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:68:13-72:29
 action#com.google.firebase.auth.api.gms.service.START
-ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:69:17-89
+ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:69:17-89
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:69:25-86
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:69:25-86
 meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
-ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:77:13-79:85
+ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:77:13-79:85
 	android:value
-		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:79:17-82
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:79:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/7dda96e319b6648d7ec29f3c0eb96bbb/jetified-firebase-auth-20.0.2/AndroidManifest.xml:78:17-109
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /home/wolf/.gradle/caches/transforms-2/files-2.1/07f712a8f59324fa4f75b46185a2424c/jetified-firebase-auth-20.0.2/AndroidManifest.xml:78:17-109
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/a17e0d90fa5028f6b7a3d2012e7b1e31/jetified-play-services-base-17.3.0/AndroidManifest.xml:23:9-26:75
+ADDED from [com.google.android.gms:play-services-base:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/84e58fd6108ff2f7895021fd86172894/jetified-play-services-base-17.3.0/AndroidManifest.xml:23:9-26:75
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/a17e0d90fa5028f6b7a3d2012e7b1e31/jetified-play-services-base-17.3.0/AndroidManifest.xml:25:13-37
+		ADDED from [com.google.android.gms:play-services-base:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/84e58fd6108ff2f7895021fd86172894/jetified-play-services-base-17.3.0/AndroidManifest.xml:25:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/a17e0d90fa5028f6b7a3d2012e7b1e31/jetified-play-services-base-17.3.0/AndroidManifest.xml:26:13-72
+		ADDED from [com.google.android.gms:play-services-base:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/84e58fd6108ff2f7895021fd86172894/jetified-play-services-base-17.3.0/AndroidManifest.xml:26:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/a17e0d90fa5028f6b7a3d2012e7b1e31/jetified-play-services-base-17.3.0/AndroidManifest.xml:24:13-79
+		ADDED from [com.google.android.gms:play-services-base:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/84e58fd6108ff2f7895021fd86172894/jetified-play-services-base-17.3.0/AndroidManifest.xml:24:13-79
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:19.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/102cf539cbf63e175409b83d0f3d0b53/jetified-firebase-common-19.4.0/AndroidManifest.xml:26:9-31:39
+ADDED from [com.google.firebase:firebase-common:19.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/49948eb9c412920c64bb485a5884136b/jetified-firebase-common-19.4.0/AndroidManifest.xml:26:9-31:39
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:19.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/102cf539cbf63e175409b83d0f3d0b53/jetified-firebase-common-19.4.0/AndroidManifest.xml:28:13-72
+		ADDED from [com.google.firebase:firebase-common:19.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/49948eb9c412920c64bb485a5884136b/jetified-firebase-common-19.4.0/AndroidManifest.xml:28:13-72
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:19.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/102cf539cbf63e175409b83d0f3d0b53/jetified-firebase-common-19.4.0/AndroidManifest.xml:30:13-37
+		ADDED from [com.google.firebase:firebase-common:19.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/49948eb9c412920c64bb485a5884136b/jetified-firebase-common-19.4.0/AndroidManifest.xml:30:13-37
 	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:19.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/102cf539cbf63e175409b83d0f3d0b53/jetified-firebase-common-19.4.0/AndroidManifest.xml:29:13-43
+		ADDED from [com.google.firebase:firebase-common:19.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/49948eb9c412920c64bb485a5884136b/jetified-firebase-common-19.4.0/AndroidManifest.xml:29:13-43
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:19.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/102cf539cbf63e175409b83d0f3d0b53/jetified-firebase-common-19.4.0/AndroidManifest.xml:31:13-36
+		ADDED from [com.google.firebase:firebase-common:19.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/49948eb9c412920c64bb485a5884136b/jetified-firebase-common-19.4.0/AndroidManifest.xml:31:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-common:19.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/102cf539cbf63e175409b83d0f3d0b53/jetified-firebase-common-19.4.0/AndroidManifest.xml:27:13-77
+		ADDED from [com.google.firebase:firebase-common:19.4.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/49948eb9c412920c64bb485a5884136b/jetified-firebase-common-19.4.0/AndroidManifest.xml:27:13-77
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/6087233d4881312aed66b4c6c9763e5f/jetified-play-services-basement-17.3.0/AndroidManifest.xml:23:9-25:69
+ADDED from [com.google.android.gms:play-services-basement:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/c793ef5410e32223e472fd4f639b7ae6/jetified-play-services-basement-17.3.0/AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/6087233d4881312aed66b4c6c9763e5f/jetified-play-services-basement-17.3.0/AndroidManifest.xml:25:13-66
+		ADDED from [com.google.android.gms:play-services-basement:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/c793ef5410e32223e472fd4f639b7ae6/jetified-play-services-basement-17.3.0/AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/6087233d4881312aed66b4c6c9763e5f/jetified-play-services-basement-17.3.0/AndroidManifest.xml:24:13-58
+		ADDED from [com.google.android.gms:play-services-basement:17.3.0] /home/wolf/.gradle/caches/transforms-2/files-2.1/c793ef5410e32223e472fd4f639b7ae6/jetified-play-services-basement-17.3.0/AndroidManifest.xml:24:13-58
